@@ -118,11 +118,8 @@ messages:
     - "余额不足。"
     - "最新的加密货币价格更新。"
   vi:
-    - "Chào mừng đến với thế giới tiền mã hóa!"
-    - "Giao dịch của bạn đã thành công."
-    - "Giao dịch thất bại. Vui lòng thử lại."
-    - "Số dư không đủ."
-    - "Cập nhật giá tiền mã hóa mới nhất."
+    - "gm"
+    - "gn"
   id:
     - "Selamat datang di dunia kripto!"
     - "Transaksi Anda berhasil."

@@ -22,7 +22,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MeoMunDep/Discord-Autobot.git
-   cd dirscord_autobot/discord_autobot
+   cd "dirscord-autobot/discord_autobot"
    ```
 2. **Install dependencies:**
    ```bash
