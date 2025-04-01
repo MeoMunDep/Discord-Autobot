@@ -43,7 +43,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
    - `leave_servers.txt`: List of server IDs to leave.
    - `messages.yaml`: Messages categorized by language.
   
-Get tokens, chatID, channelID from here: https://t.me/KeoAirDropFreeNee/1570 and https://t.me/KeoAirDropFreeNee/1569
+Get tokens, channelID from here: https://t.me/KeoAirDropFreeNee/1570 and https://t.me/KeoAirDropFreeNee/1569
 
 ## Configuration (`configs.json`)
 | Setting           | Description                            |
