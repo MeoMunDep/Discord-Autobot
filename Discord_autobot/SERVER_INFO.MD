@@ -4,8 +4,6 @@
 
 | Server ID               | Invite ID   | Name |
 |-------------------------|-------------|------|
-| `txt
-1209923224620761088 
-`     | Somnia      | Somnia|
+| `1209923224620761088`     | Somnia      | Somnia|
 
 **Ensure that the correct `server id` and `invite id` are provided in this format.**"
