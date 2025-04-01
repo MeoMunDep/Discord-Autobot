@@ -57,18 +57,19 @@ Get tokens, channelID from here: https://t.me/KeoAirDropFreeNee/1570 and https:/
 Example `configs.json`:
 ```json
 {
-  "delayBetweenAccounts": 1,
+  "delayBetweenAccounts": 5,
   "delayEachChat": 120,
   "delayEachChannel": 360,
+
   "leave_server": false,
   "delete_message": false,
   "join_server": false,
   "auto_chat": true,
-  "language": "en",
-  "timeToRestartAllAccounts": 86400,
-  "maxAccountsAtOnce": 10
-}
 
+  "language": "vi",
+  "maxAccountsAtOnce": 1,
+  "timeToRestartAllAccounts": 86400
+}
 ```
 
 ## Usage
