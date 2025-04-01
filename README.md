@@ -44,8 +44,8 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
    - `messages.yaml`: Messages categorized by language.
   
 - Get tokens: https://t.me/KeoAirDropFreeNee/1570
-- Chat id: and https://t.me/KeoAirDropFreeNee/1569
-- Channel id, Server id:   and https://t.me/KeoAirDropFreeNee/1676
+- Chat id: https://t.me/KeoAirDropFreeNee/1569
+- Channel id, Server id: https://t.me/KeoAirDropFreeNee/1676
 
 ## Configuration (`configs.json`)
 | Setting           | Description                            |
