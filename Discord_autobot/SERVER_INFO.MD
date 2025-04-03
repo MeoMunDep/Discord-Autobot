@@ -12,7 +12,7 @@
 | `1119971731885527151`     |  `` |`Incentiv` |
 | `1296867262166204477`     |  `` |`MagicNewton` |
 | `1281511866190925867`     |  `` |`OpenLedger` |
-| ``     |  `` |`` |
+| `1051876745038549002`     |  `` |`Galactica` |
 | ``     |  `` |`` |
 
 **Ensure that the correct `server id` and `invite id` are provided in this format.**"
