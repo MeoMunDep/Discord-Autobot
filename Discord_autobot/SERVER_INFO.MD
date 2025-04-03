@@ -13,6 +13,6 @@
 | `1296867262166204477`     |  `` |`MagicNewton` |
 | `1281511866190925867`     |  `` |`OpenLedger` |
 | `1051876745038549002`     |  `` |`Galactica` |
-| ``     |  `` |`` |
+| `846726276329111592`     |  `` |`VALA` |
 
 **Ensure that the correct `server id` and `invite id` are provided in this format.**"
