@@ -14,5 +14,11 @@
 | `1281511866190925867`     |  `` |`OpenLedger` |
 | `1051876745038549002`     |  `` |`Galactica` |
 | `846726276329111592`     |  `` |`VALA` |
+| `1341847161003970570`     |  `` |`MonAI` |
+| ``     |  `` |`` |
+| ``     |  `` |`` |
+| ``     |  `` |`` |
+| ``     |  `` |`` |
+| ``     |  `` |`` |
 
 **Ensure that the correct `server id` and `invite id` are provided in this format.**"
