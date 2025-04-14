@@ -19,7 +19,7 @@
 | `1271370062942568448`     |  `sk8mGwb4A4` |`SegaFi` |
 | `878219562351484948`     |  `joinmirrorworld` |`SonicSVM` |
 | `946158234866159698`     |  `KegQHYvMmw` |`KOR Protocol` |
-| ``     |  `` |`` |
+| ``     |  `dnDNRrUGNm` |`Bytenova` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
