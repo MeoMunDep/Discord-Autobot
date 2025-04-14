@@ -20,7 +20,7 @@
 | `1143643230492168274`     |  `xrplevm` |`XRPL EVM` |
 | `1271370062942568448`     |  `sk8mGwb4A4` |`SegaFi` |
 | `878219562351484948`     |  `joinmirrorworld` |`SonicSVM` |
-| ``     |  `KegQHYvMmw` |`KOR Protocol` |
+| `946158234866159698`     |  `KegQHYvMmw` |`KOR Protocol` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
