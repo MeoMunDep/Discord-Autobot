@@ -18,7 +18,7 @@
 | `1358615794354749482`     |  `themaitrixai` |`MAITRIX` |
 | `1230201205020430397`     |  `ARA5PvyWU7` |`Jiritsu` |
 | `1143643230492168274`     |  `xrplevm` |`XRPL EVM` |
-| ``     |  `` |`` |
+| `1271370062942568448`     |  `sk8mGwb4A4` |`SegaFi` |
 | ``     |  `` |`` |
 
 **Ensure that the correct `server id` and `invite id` are provided in this format.**"
