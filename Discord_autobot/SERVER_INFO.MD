@@ -1,6 +1,6 @@
 
 
-**"Please create a pull request with the following format:**
+**Please create a pull request with the following format:**
 
 | Server ID               | Invite ID   | Name |
 |-------------------------|-------------|------|
@@ -46,4 +46,4 @@
 | ``     |  `` |`` |
 | ``     |  `` |`` |
 
-**Ensure that the correct `server id` and `invite id` are provided in this format.**"
+**Ensure that the correct `server id` and `invite id` are provided in this format.**
