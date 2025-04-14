@@ -1,5 +1,3 @@
-
-
 **Please create a pull request with the following format:**
 
 | Server ID               | Invite ID   | Name |
