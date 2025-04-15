@@ -21,7 +21,7 @@
 | `946158234866159698`     |  `KegQHYvMmw` |`KOR Protocol` |
 | `1324007859637194844`     |  `dnDNRrUGNm` |`Bytenova` |
 | `1108559906614816829`     |  `initia` |`Initia` |
-| ``     |  `` |`` |
+| ``     |  `skatechain` |`Skate` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
