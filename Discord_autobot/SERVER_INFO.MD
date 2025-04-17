@@ -22,7 +22,7 @@
 | `1324007859637194844`     |  `dnDNRrUGNm` |`Bytenova` |
 | `1108559906614816829`     |  `initia` |`Initia` |
 | `1217379731750522921`     |  `skatechain` |`Skate` |
-| ``     |  `getoptimum` |`Optimum ` |
+| `1354818163879182519`     |  `getoptimum` |`Optimum ` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
 | ``     |  `` |`` |
