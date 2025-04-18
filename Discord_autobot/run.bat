@@ -5,5 +5,5 @@ title Meomundep discord-autobot
 npm init -y
 CALL npm install
 
-node meomundep.js
+node meomundep_discord.js
 pause
