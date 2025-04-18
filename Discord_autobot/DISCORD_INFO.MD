@@ -252,3 +252,12 @@ Please create a pull request using the format below. Each project (Discord serve
   - `1227100860979347456` — `gm-gn`
 
 </details>
+
+<details>
+<summary><strong>GamerBoom</strong> - **Guild ID**: <code>1149166981417799791</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1209719681754071141` — `gm-gn`
+
+</details>
