@@ -37,7 +37,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
    Edit `configs.json` to adjust settings.
 4. **Prepare input files:**
    - `tokens.txt`: List of Discord tokens (one per line). 
-   - `chat_ids.txt`: List of channel IDs for messaging.   
+   - `channel_ids.txt`: List of channel IDs for messaging.   
    - `proxies.txt`: List of proxies (one per line, optional).
    - `join_servers.txt`: List of Discord invite codes.    
    - `leave_servers.txt`: List of server IDs to leave.
