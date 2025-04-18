@@ -108,6 +108,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Invite ID**: `themaitrixai`
 - **Channels**: 
   - `1359446739697799329`: `!rank`
+  - `1358819208456048892`: `general`
 
 </details>
 
