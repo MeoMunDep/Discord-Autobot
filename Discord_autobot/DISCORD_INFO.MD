@@ -26,7 +26,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>Somnia</strong> — Guild ID: <code>1209923224620761088</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1209925258585571399`: `general`
 
 </details>
 
