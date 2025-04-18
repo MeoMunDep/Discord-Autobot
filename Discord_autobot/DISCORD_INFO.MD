@@ -242,6 +242,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Channels**:
   - `1227100860979347456` — `gm-gn`
   - `1282403819262705726` — `!rank`
+  - `1227100545265700906` — `general`
 
 </details>
 
