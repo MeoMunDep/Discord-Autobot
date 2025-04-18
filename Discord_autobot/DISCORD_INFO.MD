@@ -18,6 +18,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Invite ID**: *(none)*
 - **Channels**: 
   - `1263530192886829056`: `gtm`
+  - `1275499046210895984`: `!rank`
 
 </details>
 
