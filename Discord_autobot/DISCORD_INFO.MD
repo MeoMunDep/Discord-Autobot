@@ -113,7 +113,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>Jiritsu</strong> — Guild ID: <code>1230201205020430397</code></summary>
 
 - **Invite ID**: `ARA5PvyWU7`
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1260190285204557824` : `jm-jn`
 
 </details>
 
