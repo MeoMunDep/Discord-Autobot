@@ -226,7 +226,7 @@ Please create a pull request using the format below. Each project (Discord serve
 <details>
 <summary><strong>Portal to Bitcoin</strong></summary>
 
-- **Server ID**: *(unknown)*
+- **Guild ID**: *(unknown)*
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1308928123177537608` — `gm-gn`
@@ -236,7 +236,7 @@ Please create a pull request using the format below. Each project (Discord serve
 <details>
 <summary><strong>Dats</strong></summary>
 
-- **Server ID**: *(unknown)*
+- **Guild ID**: *(unknown)*
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1093090945693667388` — `gm-gn`
@@ -246,7 +246,7 @@ Please create a pull request using the format below. Each project (Discord serve
 <details>
 <summary><strong>Balance</strong></summary>
 
-- **Server ID**: *(unknown)*
+- **Guild ID**: *(unknown)*
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1227100860979347456` — `gm-gn`
