@@ -254,7 +254,7 @@ Please create a pull request using the format below. Each project (Discord serve
 </details>
 
 <details>
-<summary><strong>GamerBoom</strong> - **Guild ID**: <code>1149166981417799791</code></summary>
+<summary><strong>GamerBoom</strong> - <strong>Guild ID</strong>: <code>1149166981417799791</code></summary>
 
 - **Invite ID**: *(none)*
 - **Channels**:
