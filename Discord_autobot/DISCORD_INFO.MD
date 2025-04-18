@@ -106,7 +106,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>MAITRIX</strong> — Guild ID: <code>1358615794354749482</code></summary>
 
 - **Invite ID**: `themaitrixai`
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1359446739697799329`: `!rank`
 
 </details>
 
