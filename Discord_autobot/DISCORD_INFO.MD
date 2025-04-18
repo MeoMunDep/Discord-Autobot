@@ -48,7 +48,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>Mavryk</strong> — Guild ID: <code>1141663924815671337</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1141663926820552717`: `general`
 
 </details>
 
