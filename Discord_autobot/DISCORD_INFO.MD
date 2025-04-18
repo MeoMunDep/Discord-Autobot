@@ -85,15 +85,6 @@ Please create a pull request using the format below. Each project (Discord serve
 </details>
 
 <details>
-<summary><strong>VALA</strong> — Guild ID: <code>846726276329111592</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**:
-  - `1276815179299946566` — `gm-gn`
-
-</details>
-
-<details>
 <summary><strong>TradeVALA</strong> — Guild ID: <code>846726276329111592</code></summary>
 
 - **Invite ID**: *(none)*
