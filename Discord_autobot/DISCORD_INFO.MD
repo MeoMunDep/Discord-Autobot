@@ -178,8 +178,9 @@ Please create a pull request using the format below. Each project (Discord serve
 <details>
 <summary><strong>Optimum</strong> — Guild ID: <code>1354818163879182519</code></summary>
 
-- **Invite ID**: `getoptimum`
-- **Channels**: *(none listed)*
+- **Invite ID**: *(none listed)*
+- **Channels**: 
+  - `1356245748056064111`: `gmum`
 
 </details>
 
