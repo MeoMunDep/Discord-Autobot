@@ -173,7 +173,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>Skate</strong> — Guild ID: <code>1217379731750522921</code></summary>
 
 - **Invite ID**: `skatechain`
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1218663243573362781`: `gskate`
 
 </details>
 
