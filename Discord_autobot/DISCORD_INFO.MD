@@ -252,3 +252,12 @@ Please create a pull request using the format below. Each project (Discord serve
   - `1209719681754071141` — `gm-gn`
 
 </details>
+
+<details>
+<summary><strong>Matchchain</strong> - <strong>Guild ID</strong>: <code>1039181690007998525</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1039182396450414653` — `gm-gn`
+
+</details>
