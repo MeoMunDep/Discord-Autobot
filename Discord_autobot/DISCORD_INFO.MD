@@ -267,3 +267,12 @@ Please create a pull request using the format below. Each project (Discord serve
   - `1251138043524415509` — `Vietnamese chat`
 
 </details>
+
+<details>
+<summary><strong>Decent DAO</strong> - <strong>Guild ID</strong>: <code>839548879216181309</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1362155056064889052` — `shill`
+
+</details>
