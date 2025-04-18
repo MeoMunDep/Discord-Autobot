@@ -1,52 +1,258 @@
-### ✅ Pull Request Format
+---
 
-**Please create a pull request using the following unified format:**
+## 🛠️ Instructions
 
-| ID                    | Type   | Invite / Description | Name             |
-|------------------------|--------|------------------------|------------------|
-| `1209923224620761088` | Server |                        | Somnia           |
-| `1281920825309532233` | Server |                        | Autheo           |
-| `1187372655096102992` | Server |                        | StoryChain       |
-| `606071749657755668`  | Server |                        | Patero           |
-| `1141663924815671337` | Server |                        | Mavryk           |
-| `1119971731885527151` | Server |                        | Incentiv         |
-| `1296867262166204477` | Server |                        | MagicNewton      |
-| `1281511866190925867` | Server |                        | OpenLedger       |
-| `1051876745038549002` | Server |                        | Galactica        |
-| `846726276329111592`  | Server |                        | VALA             |
-| `1341847161003970570` | Server |                        | MonAI            |
-| `1358615794354749482` | Server | `themaitrixai`         | MAITRIX          |
-| `1230201205020430397` | Server | `ARA5PvyWU7`           | Jiritsu          |
-| `1143643230492168274` | Server | `xrplevm`              | XRPL EVM         |
-| `1271370062942568448` | Server | `sk8mGwb4A4`           | SegaFi           |
-| `878219562351484948`  | Server | `joinmirrorworld`      | SonicSVM         |
-| `946158234866159698`  | Server | `KegQHYvMmw`           | KOR Protocol     |
-| `1324007859637194844` | Server | `dnDNRrUGNm`           | Bytenova         |
-| `1108559906614816829` | Server | `initia`               | Initia           |
-| `1217379731750522921` | Server | `skatechain`           | Skate            |
-| `1354818163879182519` | Server | `getoptimum`           | Optimum          |
-| `948159905494335488`  | Server |                        | Moongate         |
-| `846726276329111592`  | Server |                        | TradeVALA        |
-| `1235817893095149658` | Server |                        | GMAI             |
-| `1245655860252770325` | Server |                        | Fianma           |
-| `1276815179299946566` | Chat   | `gm-gn`                | TradeVALA        |
-| `1308928123177537608` | Chat   | `gm-gn`                | Portal to Bitcoin|
+Please create a pull request using the format below. Each project (Discord server) is presented as an expandable section, which includes:
+
+- `Guild ID` (if available)
+- `Invite ID` (if available)
+- All associated chat `Channel IDs` and their descriptions (e.g., `gm-gn`, `announcements`...)
+
+> ⚠️ Ensure all **IDs and names are accurate** and that you keep the formatting consistent for readability.
 
 ---
 
-### 📌 Notes
+## 📋 Project Directory (Expandable View)
 
-- 🔹 **ID**: This can be either a **Server ID** or a **Chat ID**, depending on the row.
-- 🔹 **Type**: Use `"Server"` if you are submitting a Discord Server, or `"Chat"` if you're submitting a specific chat channel.
-- 🔹 **Invite / Description**:
-  - For `Server` entries, this should be the **Invite Code** (e.g., `xrplevm` if the invite link is `https://discord.gg/xrplevm`).
-  - For `Chat` entries, this should be a short **description** (e.g., `gm-gn`, `dev`, etc.).
-- 🔹 **Name**: Provide the **project or community name** as shown on Discord.
+<details>
+<summary><strong>Somnia</strong> — Server ID: <code>1209923224620761088</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Autheo</strong> — Server ID: <code>1281920825309532233</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>StoryChain</strong> — Server ID: <code>1187372655096102992</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Patero</strong> — Server ID: <code>606071749657755668</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Mavryk</strong> — Server ID: <code>1141663924815671337</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Incentiv</strong> — Server ID: <code>1119971731885527151</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>MagicNewton</strong> — Server ID: <code>1296867262166204477</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>OpenLedger</strong> — Server ID: <code>1281511866190925867</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Galactica</strong> — Server ID: <code>1051876745038549002</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>VALA</strong> — Server ID: <code>846726276329111592</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1276815179299946566` — `gm-gn`
+
+</details>
+
+<details>
+<summary><strong>TradeVALA</strong> — Server ID: <code>846726276329111592</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1276815179299946566` — `gm-gn`
+
+</details>
+
+<details>
+<summary><strong>MonAI</strong> — Server ID: <code>1341847161003970570</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>MAITRIX</strong> — Server ID: <code>1358615794354749482</code></summary>
+
+- **Invite ID**: `themaitrixai`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Jiritsu</strong> — Server ID: <code>1230201205020430397</code></summary>
+
+- **Invite ID**: `ARA5PvyWU7`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>XRPL EVM</strong> — Server ID: <code>1143643230492168274</code></summary>
+
+- **Invite ID**: `xrplevm`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>SegaFi</strong> — Server ID: <code>1271370062942568448</code></summary>
+
+- **Invite ID**: `sk8mGwb4A4`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>SonicSVM</strong> — Server ID: <code>878219562351484948</code></summary>
+
+- **Invite ID**: `joinmirrorworld`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>KOR Protocol</strong> — Server ID: <code>946158234866159698</code></summary>
+
+- **Invite ID**: `KegQHYvMmw`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Bytenova</strong> — Server ID: <code>1324007859637194844</code></summary>
+
+- **Invite ID**: `dnDNRrUGNm`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Initia</strong> — Server ID: <code>1108559906614816829</code></summary>
+
+- **Invite ID**: `initia`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Skate</strong> — Server ID: <code>1217379731750522921</code></summary>
+
+- **Invite ID**: `skatechain`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Optimum</strong> — Server ID: <code>1354818163879182519</code></summary>
+
+- **Invite ID**: `getoptimum`
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Moongate</strong> — Server ID: <code>948159905494335488</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>GMAI</strong> — Server ID: <code>1235817893095149658</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Fiamma</strong> — Server ID: <code>1245655860252770325</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1246756522415886346` — `gfiamma`
+
+</details>
+
+<details>
+<summary><strong>GAIB</strong> — Server ID: <code>1273697728014188664</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: *(none listed)*
+
+</details>
+
+<details>
+<summary><strong>Portal to Bitcoin</strong></summary>
+
+- **Server ID**: *(unknown)*
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1308928123177537608` — `gm-gn`
+
+</details>
+
+<details>
+<summary><strong>Dats</strong></summary>
+
+- **Server ID**: *(unknown)*
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1093090945693667388` — `gm-gn`
+
+</details>
+
+<details>
+<summary><strong>Balance</strong></summary>
+
+- **Server ID**: *(unknown)*
+- **Invite ID**: *(none)*
+- **Channels**:
+  - `1227100860979347456` — `gm-gn`
+
+</details>
 
 ---
-
-### ✅ Example Pull Request Entry:
-
-```markdown
-| `1358615794354749482` | Server | `themaitrixai` | MAITRIX |
-```
