@@ -28,6 +28,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Invite ID**: *(none)*
 - **Channels**: 
   - `1209925258585571399`: `general`
+  - `1209926199019569303`: `gsomnia`
 
 </details>
 
