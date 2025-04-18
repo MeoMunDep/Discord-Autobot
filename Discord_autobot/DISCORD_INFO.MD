@@ -241,6 +241,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1227100860979347456` — `gm-gn`
+  - `1282403819262705726` — `!rank`
 
 </details>
 
