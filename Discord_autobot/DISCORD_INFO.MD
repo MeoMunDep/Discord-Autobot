@@ -1,5 +1,3 @@
----
-
 ## 🛠️ Instructions
 
 Please create a pull request using the format below. Each project (Discord server) is presented as an expandable section, which includes:
@@ -254,5 +252,3 @@ Please create a pull request using the format below. Each project (Discord serve
   - `1227100860979347456` — `gm-gn`
 
 </details>
-
----
