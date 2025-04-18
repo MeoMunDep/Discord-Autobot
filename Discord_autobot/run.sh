@@ -6,6 +6,6 @@ npm init -y
 
 npm install
 
-node meomundep.js
+node meomundep_discord.js
 
 read -p "Press Enter to continue..."
