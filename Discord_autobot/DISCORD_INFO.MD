@@ -88,7 +88,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>MagicNewton</strong> — Guild ID: <code>1296867262166204477</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1351975159162077286`: `gm newton`
 
 </details>
 
