@@ -260,5 +260,6 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Channels**:
   - `1039182396450414653` — `gm-gn`
   - `1039183358573432863` — `!rank`
+  - `1251138043524415509` — `Vietnamese chat`
 
 </details>
