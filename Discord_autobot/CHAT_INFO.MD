@@ -21,4 +21,4 @@
 | ``     |  `` |`` |
 | ``     |  `` |`` |
 
-**Ensure that the correct `server id` and `invite id` are provided in this format.**
+**Ensure that the correct `Chat ID` and `Description` are provided in this format.**
