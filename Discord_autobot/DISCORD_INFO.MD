@@ -13,6 +13,15 @@ Please create a pull request using the format below. Each project (Discord serve
 ## 📋 Project Directory (Expandable View)
 
 <details>
+<summary><strong>Theoriq</strong> — Guild ID: <code>1119245135620878388</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1263530192886829056`: `gtm`
+
+</details>
+
+<details>
 <summary><strong>Somnia</strong> — Guild ID: <code>1209923224620761088</code></summary>
 
 - **Invite ID**: *(none)*
