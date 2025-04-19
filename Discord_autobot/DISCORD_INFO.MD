@@ -201,6 +201,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Invite ID**: `KegQHYvMmw`
 - **Channels**: 
   - `1260538908089913384`: `!rank`
+  - `1260539361892630589`: `gm`
 
 </details>
 
