@@ -84,6 +84,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Invite ID**: *(none)*
 - **Channels**: 
   - `1344387332324855879`: `gms`
+  - `606071749657755670`: `general`
 
 </details>
 
