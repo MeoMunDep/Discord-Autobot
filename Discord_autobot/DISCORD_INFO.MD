@@ -108,7 +108,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>Galactica</strong> — Guild ID: <code>1051876745038549002</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1052616497312317444`: `gm`
 
 </details>
 
