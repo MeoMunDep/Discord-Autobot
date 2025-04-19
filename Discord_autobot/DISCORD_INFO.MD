@@ -82,7 +82,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>Patero</strong> — Guild ID: <code>606071749657755668</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1344387332324855879`: `gms`
 
 </details>
 
