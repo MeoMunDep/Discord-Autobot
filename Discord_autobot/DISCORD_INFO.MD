@@ -199,7 +199,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>KOR Protocol</strong> — Guild ID: <code>946158234866159698</code></summary>
 
 - **Invite ID**: `KegQHYvMmw`
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1260538908089913384`: `!rank`
 
 </details>
 
