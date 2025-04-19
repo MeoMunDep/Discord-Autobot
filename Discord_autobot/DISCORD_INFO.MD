@@ -81,7 +81,8 @@ Please create a pull request using the format below. Each project (Discord serve
 <summary><strong>Incentiv</strong> — Guild ID: <code>1119971731885527151</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1354019462617235487`: `gm`
 
 </details>
 
