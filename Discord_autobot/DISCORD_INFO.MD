@@ -168,6 +168,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Invite ID**: `ARA5PvyWU7`
 - **Channels**: 
   - `1260190285204557824`: `jm-jn`
+  - `1230213097730347071`: `general`
 
 </details>
 
