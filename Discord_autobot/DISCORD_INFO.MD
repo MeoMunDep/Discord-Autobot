@@ -13,6 +13,15 @@ Please create a pull request using the format below. Each project (Discord serve
 ## 📋 Project Directory (Expandable View)
 
 <details>
+<summary><strong>Prodigy</strong> — Guild ID: <code>1281205921955188738</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1284098737307779192`: `general`
+
+</details>
+
+<details>
 <summary><strong>OpenGradient</strong> — Guild ID: <code>1132794141403791483</code></summary>
 
 - **Invite ID**: *(none)*
