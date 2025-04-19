@@ -13,6 +13,15 @@ Please create a pull request using the format below. Each project (Discord serve
 ## 📋 Project Directory (Expandable View)
 
 <details>
+<summary><strong>Genome Protocol</strong> — Guild ID: <code>1110108550228873349</code></summary>
+
+- **Invite ID**: `genome`
+- **Channels**: 
+  - `1110108550837059586`: `general`
+
+</details>
+
+<details>
 <summary><strong>Sonic Labs</strong> — Guild ID: <code>582931087005843466</code></summary>
 
 - **Invite ID**: *(none)*
