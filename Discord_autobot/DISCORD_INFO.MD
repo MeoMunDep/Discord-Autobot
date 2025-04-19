@@ -93,6 +93,7 @@ Please create a pull request using the format below. Each project (Discord serve
 - **Channels**: 
   - `1351975159162077286`: `gm newton`
   - `1360021038796374056`: `!rank`
+  - `1296867262166204480`: `general`
 
 </details>
 
