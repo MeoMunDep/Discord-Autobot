@@ -302,9 +302,8 @@ Please create a pull request using the format below. Each project (Discord serve
 </details>
 
 <details>
-<summary><strong>Dats</strong></summary>
+<summary><strong>Dats</strong> — Guild ID: <code>928611824918736996</code></summary>
 
-- **Guild ID**: *(unknown)*
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1093090945693667388` — `gm-gn`
