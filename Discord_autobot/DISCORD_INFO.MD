@@ -293,9 +293,8 @@ Please create a pull request using the format below. Each project (Discord serve
 </details>
 
 <details>
-<summary><strong>Portal to Bitcoin</strong></summary>
+<summary><strong>Portal to Bitcoin</strong> — Guild ID: <code>836487882981769237</code></summary>
 
-- **Guild ID**: *(unknown)*
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1308928123177537608` — `gm-gn`
