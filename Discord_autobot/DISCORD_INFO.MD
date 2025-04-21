@@ -311,9 +311,8 @@ Please create a pull request using the format below. Each project (Discord serve
 </details>
 
 <details>
-<summary><strong>Balance</strong></summary>
+<summary><strong>Balance</strong> — Guild ID: <code>1202430451353124954</code></summary>
 
-- **Guild ID**: *(unknown)*
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1227100860979347456` — `gm-gn`
