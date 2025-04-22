@@ -1,5 +1,5 @@
 {
-  "delayBetweenAccounts": 5,
+  "delayBetweenAccounts": 15,
   "delayEachChat": 120,
   "delayEachChannel": 360,
 
