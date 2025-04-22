@@ -33,7 +33,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**: 
   - `1281920828472295442`: `gm`
   - `1284157796790702234`: `dev chat`
-  - `1284157796790702234`: `dev chat`
+  - `1281920828472295440`: `general`
 
 </details>
 
