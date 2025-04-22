@@ -74,7 +74,7 @@ This bot automates interactions on **Discord**, including sending messages, join
 🧾 Example `configs.json`:
 ```json
 {
-  "delayBetweenAccounts": 5,
+  "delayBetweenAccounts": 15,
   "delayEachChat": 120,
   "delayEachChannel": 360,
 
@@ -83,7 +83,7 @@ This bot automates interactions on **Discord**, including sending messages, join
   "join_server": false,
   "auto_chat": true,
 
-  "language": "vi",
+  "language": "en",
   "maxAccountsAtOnce": 1,
   "timeToRestartAllAccounts": 86400
 }
