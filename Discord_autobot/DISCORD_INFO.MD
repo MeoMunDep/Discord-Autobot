@@ -15,6 +15,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>The Growth Protocol</strong> — Guild ID: <code>1310995128214622289</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1310995128214622292`: `general`
+
+</details>
+
+<details>
 <summary><strong>Arena VS</strong> — Guild ID: <code>915500218961768479</code></summary>
 
 - **Invite ID**: *(none)*
