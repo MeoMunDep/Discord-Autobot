@@ -21,6 +21,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**: 
   - `1298000367283601428`: `general`
   - `1301941112021188628`: `gkite`
+  - `1361243582094250124`: `gg`
 
 </details>
 
