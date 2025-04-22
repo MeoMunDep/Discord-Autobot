@@ -15,6 +15,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Incentive</strong> — Guild ID: <code>1119971731885527151</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1363184730421596322`: `testnet-feed`
+  - `1354019462617235487`: `gm`
+  - `1293554153250881588`: `chatverse`
+
+</details>
+
+<details>
 <summary><strong>KiteAI</strong> — Guild ID: <code>1298000367283601428</code></summary>
 
 - **Invite ID**: *(none)*
