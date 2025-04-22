@@ -15,6 +15,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>r2</strong> — Guild ID: <code>1308368864505106442</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1308639443917471754`: `general`
+
+</details>
+
+<details>
 <summary><strong>3DOS</strong> — Guild ID: <code>1206236320092131338</code></summary>
 
 - **Invite ID**: *(none)*
@@ -22,7 +31,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1206236320574345220`: `general`
 
 </details>
-
 
 <details>
 <summary><strong>Monad Score</strong> — Guild ID: <code>1340811383654318201</code></summary>
