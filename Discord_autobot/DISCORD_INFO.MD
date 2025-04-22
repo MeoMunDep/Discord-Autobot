@@ -30,7 +30,8 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>Autheo</strong> — Guild ID: <code>1281920825309532233</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1281920828472295442`: `gm`
 
 </details>
 
