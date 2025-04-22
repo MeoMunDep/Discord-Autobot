@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Hub.xyz</strong> — Guild ID: <code>1290417312683393034</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1290417312683393037`: `general-chat`
+  - `1340994226372087830`: `gm`
+
+</details>
+
+<details>
 <summary><strong>Incentive</strong> — Guild ID: <code>1119971731885527151</code></summary>
 
 - **Invite ID**: *(none)*
