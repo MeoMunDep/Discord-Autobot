@@ -15,6 +15,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>KiteAI</strong> — Guild ID: <code>1298000367283601428</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1298000367283601428`: `general`
+
+</details>
+
+<details>
 <summary><strong>Autheo</strong> — Guild ID: <code>1281920825309532233</code></summary>
 
 - **Invite ID**: *(none)*
