@@ -8,7 +8,7 @@
   "join_server": false,
   "auto_chat": true,
 
-  "language": "vi",
+  "language": "en",
   "maxAccountsAtOnce": 1,
   "timeToRestartAllAccounts": 86400
 }
