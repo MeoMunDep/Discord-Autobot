@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Monad Score</strong> — Guild ID: <code>1340811383654318201</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1341725898680045599`: `general`
+  - `1356628424504119366`: `gscore-gmonad`
+
+</details>
+
+<details>
 <summary><strong>Bless</strong> — Guild ID: <code>929539044742938634</code></summary>
 
 - **Invite ID**: *(none)*
