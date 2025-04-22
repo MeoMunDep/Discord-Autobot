@@ -22,6 +22,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1328419797599387788`: `!rank`
   - `1336077489411194932`: `gm-gn`
   - `915500218961768483`: `main-chat`
+  - `1336092237922177125`: `suggestion`
 
 </details>
 
