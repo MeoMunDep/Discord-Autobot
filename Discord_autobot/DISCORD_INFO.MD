@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>MagicBlock</strong> — Guild ID: <code>943797222162726962</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1021340411022819328`: `gmagic`
+  - `1094710494880866454`: `general`
+
+</details>
+
+<details>
 <summary><strong>r2</strong> — Guild ID: <code>1308368864505106442</code></summary>
 
 - **Invite ID**: *(none)*
