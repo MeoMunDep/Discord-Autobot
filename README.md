@@ -74,9 +74,9 @@ This bot automates interactions on **Discord**, including sending messages, join
 🧾 Example `configs.json`:
 ```json
 {
-  "delayBetweenAccounts": 15,
-  "delayEachChat": 120,
-  "delayEachChannel": 360,
+  "delayBetweenAccounts": 5,
+  "delayEachChat": [30, 60],
+  "delayEachChannel": [120, 180],
 
   "leave_server": false,
   "delete_message": false,
