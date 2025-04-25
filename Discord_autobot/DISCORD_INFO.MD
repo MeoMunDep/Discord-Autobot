@@ -256,6 +256,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**: 
   - `1260190285204557824`: `jm-jn`
   - `1230213097730347071`: `general`
+  - `1264453281283969036`: `/rank`
 
 </details>
 
