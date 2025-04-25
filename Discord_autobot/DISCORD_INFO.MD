@@ -444,7 +444,8 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>StoryChain</strong> — Guild ID: <code>1187372655096102992</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1213247980849864744`: `gm-gn`
 
 </details>
 
