@@ -482,7 +482,8 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>XRPL EVM</strong> — Guild ID: <code>1143643230492168274</code></summary>
 
 - **Invite ID**: `xrplevm`
-- **Channels**: *(none listed)*
+- **Channels**:
+  - `1143643231930810462`: `general`
 
 </details>
 
