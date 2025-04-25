@@ -446,6 +446,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: *(none)*
 - **Channels**: 
   - `1213247980849864744`: `gm-gn`
+  - `1187372655607816345`: `general`
 
 </details>
 
