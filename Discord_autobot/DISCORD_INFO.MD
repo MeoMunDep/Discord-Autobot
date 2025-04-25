@@ -278,6 +278,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1360258642502357002`: `gm`
   - `1358819208456048892`: `general`
   - `1358617529924194477`: `off-topic`
+  - `1359104939804328002`: `/quests`
 
 </details>
 
