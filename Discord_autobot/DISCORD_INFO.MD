@@ -200,6 +200,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**: 
   - `1052616497312317444`: `gm`
   - `1051876745684455551`: `general`
+  - `1105181730526216263`: `!rank`
 
 </details>
 
