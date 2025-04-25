@@ -485,6 +485,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**:
   - `1143643231930810462`: `general`
   - `1363263843064746034`: `nigerian chat`
+  - `1146152932614606879`: `funding`
 
 </details>
 
