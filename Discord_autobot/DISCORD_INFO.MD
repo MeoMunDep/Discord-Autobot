@@ -399,6 +399,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: `skatechain`
 - **Channels**: 
   - `1218663243573362781`: `gskate`
+  - `1218663463728058378`: `general`
 
 </details>
 
