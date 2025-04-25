@@ -310,7 +310,8 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>Moongate</strong> — Guild ID: <code>948159905494335488</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  `1258441940278706298`: `gmoon`
 
 </details>
 
