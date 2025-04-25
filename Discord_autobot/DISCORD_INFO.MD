@@ -457,6 +457,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**: 
   - `1263530192886829056`: `gtm`
   - `1275499046210895984`: `!rank`
+  - `1119245136224854079`: `general`
 
 </details>
 
