@@ -416,6 +416,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1209925258585571399`: `general`
   - `1209926199019569303`: `gsomnia`
   - `1303669927760101397`: `gm-gn-hi`
+  - `1237047946592124939`: `west-africa chat`
 
 </details>
 
