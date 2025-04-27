@@ -1,14 +1,24 @@
 {
-  "delayBetweenAccounts": 5,
-  "delayEachChat": [30, 60],
-  "delayEachChannel": [120, 180],
-
-  "leave_server": false,
-  "delete_message": false,
-  "join_server": false,
-  "auto_chat": true,
-
-  "language": "en",
   "maxAccountsAtOnce": 1,
-  "timeToRestartAllAccounts": 86400
+  "delayBetweenAccounts": 15,
+  "delayEachChannel": [3, 5, 7],
+  "delayEachChat": [5, 10, 15],
+  "timeToRestartAllAccounts": 3600,
+
+  "chat_language": "en",
+
+  "auto_chat": true,
+  "join_server": true,
+  "leave_server": true,
+  "delete_message": true,
+  "enable_replies": true,
+  "enable_reactions": true,
+  "reaction_chance": 0.5,
+  "enable_ai_replies": true,
+
+  "ai_providers": {
+    "groq": "",
+    "openrouter": "",
+    "gemini": ""
+  }
 }
