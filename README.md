@@ -1,5 +1,8 @@
 # 🤖 Discord Automation Bot by @MeoMunDep
 
+![DISCORD_MEOMUNDEP_CLI](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/DISCORD_MEOMUNDEP_CLI.png?raw=true)
+
+
 ## 🌐 Overview
 This bot automates interactions on **Discord**, including sending messages, joining/leaving servers, and handling messages using **multiple accounts** with **proxy support**.
 
