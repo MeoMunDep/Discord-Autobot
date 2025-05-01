@@ -204,7 +204,8 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>Bytenova</strong> — Guild ID: <code>1324007859637194844</code></summary>
 
 - **Invite ID**: `dnDNRrUGNm`
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1324007860140773478`: `general`
 
 </details>
 
