@@ -241,7 +241,9 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>GAIB</strong> — Guild ID: <code>1273697728014188664</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1273697728542675053`: `gaibm`
+  - `1273697728542675048`: `general`
 
 </details>
 
