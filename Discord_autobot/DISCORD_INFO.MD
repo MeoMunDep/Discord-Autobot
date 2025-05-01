@@ -398,7 +398,9 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>MonAI</strong> — Guild ID: <code>1341847161003970570</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1341847161003970570`: `general`
+  - `1341852911784820766`: `gm-gn`
 
 </details>
 
