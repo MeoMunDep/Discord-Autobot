@@ -15,6 +15,77 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Part Of Dreams</strong> — Guild ID: <code>1110195999101689927</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1344753252255662151`: `gm`
+  - `1110195999638552730`: `general`
+  - `1344752947963236422`: `!rank`
+
+</details>
+
+<details>
+<summary><strong>Haha</strong> — Guild ID: <code>960981062664740904</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1004455093321617580`: `general`
+
+</details>
+
+<details>
+<summary><strong>The Growth Protocol</strong> — Guild ID: <code>1310995128214622289</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1310995128214622292`: `general`
+
+</details>
+
+<details>
+<summary><strong>Taker Protocol</strong> — Guild ID: <code>1325135931296186531</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1325135931296186531`: `gm`
+  - `1294327743013589043`: `!rank`
+  - `1330068632926945300`: `og`
+  - `912911468427628595`: `general`
+
+</details>
+
+<details>
+<summary><strong>Valhalla</strong> — Guild ID: <code>1318047355169275934</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1318047355169275934`: `gm`
+  - `1318036319779164191`: `general`
+
+</details>
+
+<details>
+<summary><strong>Memecore</strong> — Guild ID: <code>1235773380121071656</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1237659603873824810`: `gm`
+  - `1255077252891152404`: `general`
+
+</details>
+
+<details>
+<summary><strong>Starpower Network</strong> — Guild ID: <code>1181951066942754816</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1276815179299946566`: `gm`
+  - `1246201979626197102`: `general`
+
+</details>
+
+<details>
 <summary><strong>Zenchain</strong> — Guild ID: <code>1243030097259397130</code></summary>
 
 - **Invite ID**: **None**
@@ -187,15 +258,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>The Growth Protocol</strong> — Guild ID: <code>1310995128214622289</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1310995128214622292`: `general`
-
-</details>
-
-<details>
 <summary><strong>Arena VS</strong> — Guild ID: <code>915500218961768479</code></summary>
 
 - **Invite ID**: *(none)*
@@ -277,6 +339,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1093090945693667388` — `gm-gn`
+  - `928611824918736999` — `general`
 
 </details>
 
