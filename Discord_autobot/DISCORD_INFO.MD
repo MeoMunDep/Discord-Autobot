@@ -15,9 +15,19 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Primus Labs</strong> — Guild ID: <code>1125704047085760595</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1257875620365471830`: `gm`
+  - `1282630694576717885`: `general`
+
+</details>
+
+<details>
 <summary><strong>Huddle01</strong> — Guild ID: <code>890224574761926756</code></summary>
 
-- **Invite ID**: `mira-network`
+- **Invite ID**: **None**
 - **Channels**: 
   - `939625747742617671`: `HUDL`
   - `890224574761926762`: `general`
@@ -28,7 +38,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <details>
 <summary><strong>Netherak Demons</strong> — Guild ID: <code>1351569011393167452</code></summary>
 
-- **Invite ID**: `mira-network`
+- **Invite ID**: **None**
 - **Channels**: 
   - `1359765132967809085`: `gm-gn`
   - `1351569012328239120`: `general`
