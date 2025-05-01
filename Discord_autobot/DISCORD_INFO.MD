@@ -358,8 +358,8 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 - **Invite ID**: *(none)*
 - **Channels**: 
-  `1258441940278706298`: `gmoon`
-  `955506597818408971`: `general`
+  - `1258441940278706298`: `gmoon`
+  - `955506597818408971`: `general`
 
 </details>
 
