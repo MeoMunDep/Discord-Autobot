@@ -412,7 +412,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**:
   - `1039182396450414653` — `gm-gn`
   - `1039183358573432863` — `!rank`
-  - `1251138043524415509` — `Vietnamese chat`
+  - `1040525523673174086` — `English chat`
 
 </details>
 
