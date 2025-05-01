@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>funkybit</strong> — Guild ID: <code>1206128759485374474</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1323648590236614686`: `gm`
+  - `1206484273024999425`: `general`
+
+</details>
+
+<details>
 <summary><strong>GPUNET</strong> — Guild ID: <code>1083646475608784906</code></summary>
 
 - **Invite ID**: **None**
