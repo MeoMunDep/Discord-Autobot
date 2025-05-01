@@ -440,7 +440,9 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 <summary><strong>OpenLedger</strong> — Guild ID: <code>1281511866190925867</code></summary>
 
 - **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
+- **Channels**: 
+  - `1316298147126968435`: `gm`
+  - `1305830653488664637`: `general`
 
 </details>
 
