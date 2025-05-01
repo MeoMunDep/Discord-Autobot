@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Plasma</strong> — Guild ID: <code>1296452737562841111</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1296452738141524003`: `general`
+  - `1296487781924733121`: `gm`
+
+</details>
+
+<details>
 <summary><strong>Zero1 Labs</strong> — Guild ID: <code>1184532962453237851</code></summary>
 
 - **Invite ID**: *(none)*
@@ -22,7 +32,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1328117553649815672`: `general`
 
 </details>
-
 
 <details>
 <summary><strong>MagicBlock</strong> — Guild ID: <code>943797222162726962</code></summary>
