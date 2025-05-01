@@ -21,6 +21,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**: 
   - `1235218360204136468`: `general`
   - `1235221121511587901`: `gmira`
+  - `1263144808801636392`: `!rank`
 
 </details>
 
