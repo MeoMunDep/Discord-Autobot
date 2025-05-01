@@ -285,6 +285,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Channels**: 
   - `929539047716687945`: `general`
   - `1207768224570286202`: `bm-bn`
+  - `1316413119266033704`: `!rank`
 
 </details>
 
