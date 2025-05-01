@@ -15,6 +15,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Monzilla</strong> — Guild ID: <code>1351049895137771610</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1351053645965295617`: `gmnozilla`
+  - `1351053779931500554`: `general`
+  - `1351054168768385104`: `!rank`
+
+</details>
+
+<details>
 <summary><strong>Plasma</strong> — Guild ID: <code>1296452737562841111</code></summary>
 
 - **Invite ID**: *(none)*
