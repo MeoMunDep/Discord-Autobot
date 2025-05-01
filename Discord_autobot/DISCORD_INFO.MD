@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Kofi Finance</strong> — Guild ID: <code>1323165177121603666</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1323165177121603669`: `gm`
+  - `1341404586916843621`: `general`
+
+</details>
+
+<details>
 <summary><strong>Part Of Dreams</strong> — Guild ID: <code>1110195999101689927</code></summary>
 
 - **Invite ID**: **None**
