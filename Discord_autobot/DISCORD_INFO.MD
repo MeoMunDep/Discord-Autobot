@@ -286,6 +286,8 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1246756522415886346` — `gfiamma`
+  - `1246756459673419856` — `general`
+  - `1318031399466434632` — `/rank`
 
 </details>
 
