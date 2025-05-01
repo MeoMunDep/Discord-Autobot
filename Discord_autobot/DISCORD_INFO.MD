@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Mira</strong> — Guild ID: <code>1235106299424018433</code></summary>
+
+- **Invite ID**: *(none)*
+- **Channels**: 
+  - `1235218360204136468`: `general`
+  - `1235221121511587901`: `gmira`
+
+</details>
+
+<details>
 <summary><strong>Sandwatch</strong> — Guild ID: <code>1155923737120608286</code></summary>
 
 - **Invite ID**: *(none)*
