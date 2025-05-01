@@ -15,6 +15,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Gaea</strong> — Guild ID: <code>1264832793536630816</code></summary>
+
+- **Invite ID**: `aigaea`
+- **Channels**: 
+  - `1281109757310275755`: `gm`
+  - `1265194052572414036`: `general`
+  - `1303533168825077843`: `!rank`
+
+</details>
+
+<details>
 <summary><strong>Kofi Finance</strong> — Guild ID: <code>1323165177121603666</code></summary>
 
 - **Invite ID**: **None**
