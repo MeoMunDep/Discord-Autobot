@@ -212,6 +212,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: *(none)*
 - **Channels**:
   - `1362155056064889052` — `shill`
+  - `933817788877918238` — `general`
 
 </details>
 
