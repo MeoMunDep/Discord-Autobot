@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>GPUNET</strong> — Guild ID: <code>1083646475608784906</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1363901923077652653`: `gm`
+  - `1083646475608784909`: `general`
+
+</details>
+
+<details>
 <summary><strong>Primus Labs</strong> — Guild ID: <code>1125704047085760595</code></summary>
 
 - **Invite ID**: **None**
