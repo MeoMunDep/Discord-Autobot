@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Zenchain</strong> — Guild ID: <code>1243030097259397130</code></summary>
+
+- **Invite ID**: **None**
+- **Channels**: 
+  - `1341296899789160459`: `gm`
+  - `1243030098127491118`: `general`
+
+</details>
+
+<details>
 <summary><strong>funkybit</strong> — Guild ID: <code>1206128759485374474</code></summary>
 
 - **Invite ID**: **None**
