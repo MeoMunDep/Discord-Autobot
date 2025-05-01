@@ -15,6 +15,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Huddle01</strong> — Guild ID: <code>890224574761926756</code></summary>
+
+- **Invite ID**: `mira-network`
+- **Channels**: 
+  - `939625747742617671`: `HUDL`
+  - `890224574761926762`: `general`
+  - `1336724466662637629`: `!rank`
+
+</details>
+
+<details>
 <summary><strong>Netherak Demons</strong> — Guild ID: <code>1351569011393167452</code></summary>
 
 - **Invite ID**: `mira-network`
