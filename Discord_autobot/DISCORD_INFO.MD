@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Deriw</strong> — Guild ID: <code>1197128320299565166</code></summary>
+
+- **Invite ID**: `deriwfinance`
+- **Channels**: 
+  - `1253576696301490198`: `gm`
+  - `1197128320299565169`: `general`
+
+</details>
+
+<details>
 <summary><strong>Moai Finance</strong> — Guild ID: <code>1174206838238101604</code></summary>
 
 - **Invite ID**: `A85PwmdqhF`
