@@ -65,13 +65,25 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 ## ⚙️ Configuration (`configs.json`)
 
-| ⚙️ Setting           | 📘 Description                    |
-|----------------------|-----------------------------------|
-| `auto_chat`          | Enable/disable auto messaging     |
-| `delete_message`     | Enable message deletion           |
-| `join_server`        | Enable auto join servers          |
-| `leave_server`       | Enable auto leave servers         |
-| `language`           | Language used for messages        |
+| ⚙️ Setting                  | 📘 Description                                                                 |
+|----------------------------|---------------------------------------------------------------------------------|
+| `maxAccountsAtOnce`        | Number of accounts to run at the same time                                      |
+| `delayBetweenAccounts`     | Delay (in seconds) between starting each account                                |
+| `delayEachChannel`         | List of delays (in seconds) between messages in different channels              |
+| `delayEachChat`            | List of delays (in seconds) between messages in different chats                 |
+| `timeToRestartAllAccounts` | Time (in seconds) to restart all accounts and begin again                       |
+| `chat_language`            | Language used for auto-generated messages                                       |
+| `auto_chat`                | Enable/disable automatic chatting                                               |
+| `join_server`              | Enable/disable auto joining of servers                                          |
+| `leave_server`             | Enable/disable auto leaving of servers                                          |
+| `delete_message`           | Enable/disable message deletion after sending                                   |
+| `enable_replies`           | Enable/disable bot replies to other messages                                    |
+| `enable_reactions`         | Enable/disable message reactions                                                |
+| `reaction_chance`          | Probability (0 to 1) that a message will receive a reaction                      |
+| `enable_ai_replies`        | Enable/disable AI-generated replies                                             |
+| `ai_providers.groq`        | API key for Groq AI provider (if used)                                          |
+| `ai_providers.openrouter`  | API key for OpenRouter AI provider (if used)                                    |
+| `ai_providers.gemini`      | API key for Google Gemini AI provider (if used)                                 |
 
 🧾 Example `configs.json`:
 ```json
@@ -99,7 +111,6 @@ This bot automates interactions on **Discord**, including sending messages, join
     "gemini": ""
   }
 }
-
 ```
 
 ---
