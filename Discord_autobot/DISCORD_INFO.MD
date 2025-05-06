@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>QRusader</strong> — Guild ID: <code>1361522453582708829</code></summary>
+
+- **Invite ID**: `znyWJjnak5`
+- **Channels**: 
+  - `1367539421997568030`: `qrise`
+  - `1361522454295613616`: `general`
+
+</details>
+
+<details>
 <summary><strong>Deriw</strong> — Guild ID: <code>1197128320299565166</code></summary>
 
 - **Invite ID**: `deriwfinance`
