@@ -15,6 +15,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Voxel</strong> — Guild ID: <code>1346831413772816415</code></summary>
+
+- **Invite ID**: `FMhjEGY3Zs`
+- **Channels**: 
+  - `1354419584840499321`: `gm`
+  - `1347002925901156362`: `!rank`
+  - `1354472408265785458`: `general`
+
+</details>
+
+<details>
 <summary><strong>QRusader</strong> — Guild ID: <code>1361522453582708829</code></summary>
 
 - **Invite ID**: `znyWJjnak5`
