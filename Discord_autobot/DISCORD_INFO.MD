@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Alkimiya</strong> — Guild ID: <code>805807766886940692</code></summary>
+
+- **Invite ID**: `alkimiya`
+- **Channels**: 
+  - `943366744507047956`: `gm`
+  - `821879984075440138`: `general`
+
+</details>
+
+<details>
 <summary><strong>Voxel</strong> — Guild ID: <code>1346831413772816415</code></summary>
 
 - **Invite ID**: `FMhjEGY3Zs`
