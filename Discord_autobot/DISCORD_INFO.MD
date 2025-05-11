@@ -15,6 +15,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>PinAI</strong> — Guild ID: <code>1229940893642129438</code></summary>
+
+- **Invite ID**: `pinai`
+- **Channels**: 
+  - `1360124010762866829`: `gpin`
+  - `1359998147065286776`: `general`
+  - `1364620323219181829`: `halo`
+
+</details>
+
+<details>
 <summary><strong>Mawari</strong> — Guild ID: <code>1275882423095398487</code></summary>
 
 - **Invite ID**: `mawari`
