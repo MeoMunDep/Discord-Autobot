@@ -15,6 +15,18 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Mawari</strong> — Guild ID: <code>1275882423095398487</code></summary>
+
+- **Invite ID**: `mawari`
+- **Channels**: 
+  - `1275882423619551312`: `gm`
+  - `1275882423619551309`: `general`
+  - `1275882423619551310`: `!rank`
+  - `1346177614674530406`: `off-topic`
+
+</details>
+
+<details>
 <summary><strong>Alkimiya</strong> — Guild ID: <code>805807766886940692</code></summary>
 
 - **Invite ID**: `alkimiya`
