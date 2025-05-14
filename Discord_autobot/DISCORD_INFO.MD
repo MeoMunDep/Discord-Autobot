@@ -15,6 +15,19 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Kadena</strong> — Guild ID: <code>502858632178958377</code></summary>
+
+- **Invite ID**: `NZcBb2aBQ6`
+- **Channels**: 
+  - `1372148674683076658`: `gm-gn`
+  - `502858632178958380`: `general`
+  - `1220399868452012125`: `ama`
+  - `1336691531159048222`: `HR chat`
+  - `641021540393025651`: `Technical chat`
+
+</details>
+
+<details>
 <summary><strong>PinAI</strong> — Guild ID: <code>1229940893642129438</code></summary>
 
 - **Invite ID**: `pinai`
