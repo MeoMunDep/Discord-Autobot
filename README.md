@@ -115,7 +115,13 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 ---
 
+![GROQ_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/GROQ_API_KEY.png?raw=true)
+![GEMINI_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/GEMINI_API_KEY.png?raw=true)
+![OPENROUTER_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/OPENROUTER_API_KEY.png?raw=true)
 
+[GROQ_API_KEY Link](https://console.groq.com/keys)
+[GEMINI_API_KEY Link](https://aistudio.google.com/app/apikey)
+[OPENROUTER_API_KEY Link](https://openrouter.ai/settings/keys)
 
 ---
 
