@@ -1,6 +1,6 @@
 # 🤖 Discord Automation Bot by @MeoMunDep
 
-![DISCORD_MEOMUNDEP_CLI](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/DISCORD_MEOMUNDEP_CLI.png?raw=true)
+![DISCORD_MEOMUNDEP_CLI](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/DISCORD_MEOMUNDEP_CLI.png?raw=true)
 
 ## 🌐 Overview
 This bot automates interactions on **Discord**, including sending messages, joining/leaving servers, and handling messages using **multiple accounts** with **proxy support**.
@@ -116,17 +116,17 @@ This bot automates interactions on **Discord**, including sending messages, join
 ---
 
 [GROQ_API_KEY Link](https://console.groq.com/keys)
-![GROQ_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/GROQ_API_KEY.png?raw=true)
+![GROQ_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/GROQ_API_KEY.png?raw=true)
 
 ---
 
 [GEMINI_API_KEY Link](https://aistudio.google.com/app/apikey)
-![GEMINI_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/GEMINI_API_KEY.png?raw=true)
+![GEMINI_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/GEMINI_API_KEY.png?raw=true)
 
 ---
 
 [OPENROUTER_API_KEY Link](https://openrouter.ai/settings/keys)
-![OPENROUTER_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/Discord_autobot/IMAGE/OPENROUTER_API_KEY.png?raw=true)
+![OPENROUTER_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/OPENROUTER_API_KEY.png?raw=true)
 
 ---
 
