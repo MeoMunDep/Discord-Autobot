@@ -115,6 +115,10 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 ---
 
+
+
+---
+
 ## ▶️ Usage
 
 📌 Run the bot:
