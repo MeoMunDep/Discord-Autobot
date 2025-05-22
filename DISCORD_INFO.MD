@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>JRNY Earn</strong> — Guild ID: <code>901505743314903081</code></summary>
+
+- **Invite ID**: `jnryclub`
+- **Channels**: 
+  - `1359962921161199907`: `general`
+  - `1369063388440957008`: `/rank`
+
+</details>
+
+<details>
 <summary><strong>Oro</strong> — Guild ID: <code>1349045850331938826</code></summary>
 
 - **Invite ID**: `joinoro`
