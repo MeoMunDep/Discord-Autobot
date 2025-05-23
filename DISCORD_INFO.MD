@@ -15,6 +15,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>VRAM</strong> — Guild ID: <code>1346258822733365278</code></summary>
+
+- **Invite ID**: `G3rvmPmztp`
+- **Channels**: 
+  - `1346258823354126338`: `general`
+  - `1347919432885866577`: `gvram`
+  - `1358270169067032586`: `!rank`
+
+</details>
+
+<details>
 <summary><strong>JRNY Earn</strong> — Guild ID: <code>901505743314903081</code></summary>
 
 - **Invite ID**: `jnryclub`
