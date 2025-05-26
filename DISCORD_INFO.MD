@@ -592,6 +592,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1260538908089913384`: `!rank`
   - `1260539361892630589`: `gm`
   - `959531869693681685`: `general`
+  - `1334585829435379722`: `king`
 
 </details>
 
