@@ -15,6 +15,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>T-Rex network</strong> — Guild ID: <code>1332004446678290543</code></summary>
+
+- **Invite ID**: `3kf39pEBZn`
+- **Channels**: 
+
+
+</details>
+
+<details>
 <summary><strong>VRAM</strong> — Guild ID: <code>1346258822733365278</code></summary>
 
 - **Invite ID**: `G3rvmPmztp`
