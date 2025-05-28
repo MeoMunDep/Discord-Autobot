@@ -15,6 +15,18 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>GG3</strong> — Guild ID: <code>1169625335755702282</code></summary>
+
+- **Invite ID**: `jNDnrFnR`
+- **Channels**: 
+  - `1364641668648927325`: `newbie-chat`
+  - `1171509980545941595`: `general`
+  - `1358733185818820618`: `crypto-talk`
+  - `1254799466750541844`: `brazil-chat`
+
+</details>
+
+<details>
 <summary><strong>T-Rex network</strong> — Guild ID: <code>1332004446678290543</code></summary>
 
 - **Invite ID**: `3kf39pEBZn`
