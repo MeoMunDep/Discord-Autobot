@@ -1,8 +1,8 @@
 {
   "maxAccountsAtOnce": 1,
   "delayBetweenAccounts": 17,
-  "delayEachChannel": [5, 7, 9],
   "delayEachChat": [7, 11, 15],
+  "delayEachChannel": [5, 7, 9],
   "timeToRestartAllAccounts": 360,
 
   "chat_language": "en",
@@ -12,13 +12,13 @@
   "leave_server": true,
   "delete_message": true,
   "enable_replies": true,
-  "enable_reactions": true,
   "reaction_chance": 0.5,
+  "enable_reactions": true,
   "enable_ai_replies": true,
 
   "ai_providers": {
     "groq": "",
-    "openrouter": "",
-    "gemini": ""
+    "gemini": "",
+    "openrouter": ""
   }
 }
