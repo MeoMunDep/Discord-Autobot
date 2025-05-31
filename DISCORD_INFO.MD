@@ -2,8 +2,7 @@
 
 Please create a pull request using the format below. Each project (Discord server) is presented as an expandable section, which includes:
 
-- `Guild ID` for `leave_servers.txt` (if available) 
-- `Invite ID` for `join_servers.txt` (if available)
+- `guild_id`, `invite_id`, `channels` and `name` for `servers.json` (if available) 
 - All associated chat `Channel IDs` and their descriptions (e.g., `gm-gn`, `announcements`...)
 
 > ⚠️ Ensure all **IDs and names are accurate** and that you keep the formatting consistent for readability.
