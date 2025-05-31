@@ -15,6 +15,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Centic</strong> — Guild ID: <code>1085764822144122921</code></summary>
+
+- **Invite ID**: `Pk7wexpsmv`
+- **Channels**: 
+  - `1085764822144122927`: `general`
+
+</details>
+
+<details>
 <summary><strong>Ducat</strong> — Guild ID: <code>1220803043105443981</code></summary>
 
 - **Invite ID**: `rNf4HKbWv6`
