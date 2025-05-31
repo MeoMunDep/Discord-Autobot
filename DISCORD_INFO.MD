@@ -15,6 +15,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Donut Browser</strong> — Guild ID: <code>1366732076287791205</code></summary>
+
+- **Invite ID**: `ydxgrVnbwB`
+- **Channels**: 
+  - `1366732078296862881`: `general`
+  - `1366732078296862882`: `gm-gn`
+
+</details>
+
+<details>
 <summary><strong>GG3</strong> — Guild ID: <code>1169625335755702282</code></summary>
 
 - **Invite ID**: `jNDnrFnR`
