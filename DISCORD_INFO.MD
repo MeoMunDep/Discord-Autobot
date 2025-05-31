@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>XOS</strong> — Guild ID: <code>1023795069033119846</code></summary>
+
+- **Invite ID**: `xosnetwork`
+- **Channels**: 
+  - `1312796374604976229`: `general`
+  - `1327221680459874324`: `gm-gn`
+
+</details>
+
+<details>
 <summary><strong>LayerEdge</strong> — Guild ID: <code>1214142396938592286</code></summary>
 
 - **Invite ID**: `layeredge`
