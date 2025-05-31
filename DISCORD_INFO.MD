@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>LayerEdge</strong> — Guild ID: <code>1214142396938592286</code></summary>
+
+- **Invite ID**: `layeredge`
+- **Channels**: 
+  - `1214142397470998530`: `general`
+  - `1220047335435014254`: `gmedge`
+  - `1345848517251432468`: `!rank`
+
+</details>
+
+<details>
 <summary><strong>Centic</strong> — Guild ID: <code>1085764822144122921</code></summary>
 
 - **Invite ID**: `Pk7wexpsmv`
