@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Re protocol</strong> — Guild ID: <code>1001934954252476436</code></summary>
+
+- **Invite ID**: `reprotocol`
+- **Channels**: 
+  - `1365406049775128657`: `general`
+  - `1277789718775595102`: `!rank`
+
+</details>
+
+<details>
 <summary><strong>XOS</strong> — Guild ID: <code>1023795069033119846</code></summary>
 
 - **Invite ID**: `xosnetwork`
