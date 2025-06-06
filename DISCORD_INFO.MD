@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Fluence Network</strong> — Guild ID: <code>483968379833679873</code></summary>
+
+- **Invite ID**: `EFHYR6nZrD`
+- **Channels**: 
+  - `483968379833679877`: `general`
+  - `946007217407148062`: `gm`
+
+</details>
+
+<details>
 <summary><strong>Re protocol</strong> — Guild ID: <code>1001934954252476436</code></summary>
 
 - **Invite ID**: `reprotocol`
