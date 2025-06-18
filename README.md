@@ -29,7 +29,7 @@ This bot automates interactions on **Discord**, including sending messages, join
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MeoMunDep/Discord-Autobot.git
-   cd "dirscord-autobot/discord_autobot"
+   cd "dirscord-autobot"
    ```
 
 2. **Install dependencies:**
