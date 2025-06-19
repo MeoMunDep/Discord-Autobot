@@ -29,7 +29,10 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: `reprotocol`
 - **Channels**: 
   - `1365406049775128657`: `general`
+  - `1365406049775128657`: `newbie-chat`
   - `1277789718775595102`: `!rank`
+  - `1289990562388381777`: `gre`
+  - `1294662686281564295`: `food`
 
 </details>
 
