@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Gaia</strong> — Guild ID: <code>1215232680942374912</code></summary>
+
+- **Invite ID**: `gaianet-ai`
+- **Channels**: 
+  - `1215253072499052624`: `!rank`
+  - `1215253012939808810`: `general`
+  - `1215256291165872128`: `gm-gn`
+
+</details>
+
+<details>
 <summary><strong>Yupp AI</strong> — Guild ID: <code>1295599159587377203</code></summary>
 
 - **Invite ID**: `yuppai`
