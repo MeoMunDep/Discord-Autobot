@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Multiple Network</strong> — Guild ID: <code>1252882796209504267</code></summary>
+
+- **Invite ID**: `JGKUaCQvDM`
+- **Channels**: 
+  - `1253234704916942948`: `general`
+  - `1374997967680966689`: `gmultiple`
+
+</details>
+
+<details>
 <summary><strong>PEPE Games</strong> — Guild ID: <code>1351897078779084800</code></summary>
 
 - **Invite ID**: `tf2Xu3tum9`
