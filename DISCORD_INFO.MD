@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Yupp AI</strong> — Guild ID: <code>1295599159587377203</code></summary>
+
+- **Invite ID**: `yuppai`
+- **Channels**: 
+  - `1295801741346078793`: `welcome`
+  - `1374479943995756625`: `townsquare`
+  - `1366554333809999983`: `show-and-tell`
+
+</details>
+
+<details>
 <summary><strong>Multiple Network</strong> — Guild ID: <code>1252882796209504267</code></summary>
 
 - **Invite ID**: `JGKUaCQvDM`
