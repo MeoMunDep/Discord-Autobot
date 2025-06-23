@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>BlackHole Dex</strong> — Guild ID: <code>1338264860496236556</code></summary>
+
+- **Invite ID**: `blackholedex`
+- **Channels**: 
+  - `1350616076731420692`: `!rank`
+  - `1338264861095755840`: `general`
+  - `1375200474805829642`: `gm`
+
+</details>
+
+<details>
 <summary><strong>Gaia</strong> — Guild ID: <code>1215232680942374912</code></summary>
 
 - **Invite ID**: `gaianet-ai`
