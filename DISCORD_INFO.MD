@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Meganet</strong> — Guild ID: <code>1306913701047173200</code></summary>
+
+- **Invite ID**: `meganet`
+- **Channels**: 
+  - `1307756597778448404`: `general`
+  - `1307757067318329525`: `gm`
+
+</details>
+
+<details>
 <summary><strong>BlackHole Dex</strong> — Guild ID: <code>1338264860496236556</code></summary>
 
 - **Invite ID**: `blackholedex`
