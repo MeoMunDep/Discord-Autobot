@@ -14,6 +14,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Seismic</strong> — Guild ID: <code>1343751435711414362</code></summary>
+
+- **Invite ID**: `seismic`
+- **Channels**: 
+  - `1343751437087150113`: `general`
+
+</details>
+
+<details>
 <summary><strong>Meganet</strong> — Guild ID: <code>1306913701047173200</code></summary>
 
 - **Invite ID**: `meganet`
