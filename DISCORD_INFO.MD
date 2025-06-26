@@ -19,7 +19,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: `officialsymbioticfi`
 - **Channels**: 
   - `1321833453641007167`: `general`
-  - `1322092013193138248`: `gmbiootic`
+  - `1322092013193138248`: `gmbiotic`
 
 </details>
 
