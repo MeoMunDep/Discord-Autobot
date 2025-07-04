@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Magma Finance</strong> — Guild ID: <code>1281245519191998475</code></summary>
+
+- **Invite ID**: `gxT4N6TsnY`
+- **Channels**: 
+  - `1281245521775951915`: `general`
+  - `1281245521775951914`: `gm-gn`
+
+</details>
+
+<details>
 <summary><strong>Symbiotic</strong> — Guild ID: <code>1308889840808366110</code></summary>
 
 - **Invite ID**: `officialsymbioticfi`
