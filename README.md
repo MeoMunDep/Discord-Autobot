@@ -14,6 +14,7 @@ This bot automates interactions on **Discord**, including sending messages, join
 - 🌍 **Proxy Support**: Supports HTTP(S) and SOCKS5 proxies.
 - 🗑️ **Auto Message Deletion**: Deletes sent messages after a configurable delay.
 - 🌐 **Multi-language Support**: Configurable message language.
+- 📕 **Save error channels or servers ID**: Store IDs of servers or channels where errors occurred (e.g., missing permissions, channel not found, message send failed).
 
 ---
 
@@ -55,6 +56,7 @@ This bot automates interactions on **Discord**, including sending messages, join
    - 🔗 `join_servers.txt`: Discord invite codes.
    - 🚪 `leave_servers.txt`: Server IDs to leave.
    - 📜 `messages.yaml`: Messages in multiple languages.
+   - 🗂️ `error_channels.json`: Store error channels and servers ID.
 
 📌 Helpful links:
 - 🔑 Get tokens: [Here](https://t.me/KeoAirDropFreeNee/1570)
