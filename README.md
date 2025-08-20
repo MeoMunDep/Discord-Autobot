@@ -134,7 +134,7 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 📌 Run the bot:
 ```bash
-node meomundep_discord.js
+node scripts/meomundep_discord.js
 ```
 
 ⬆️ Update the bot:
