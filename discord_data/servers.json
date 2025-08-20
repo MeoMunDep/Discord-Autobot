@@ -1,5 +1,260 @@
 [
   {
+    "name": "Injective",
+    "guild_id": "739552603322450092",
+    "invite_id": "injective",
+    "channels": {
+      "739552603322450095": "general",
+      "1255195982543585310": "lounge",
+      "1263906515538939934": "!rank"
+    }
+  },
+  {
+    "name": "Magma Finance",
+    "guild_id": "1281245519191998475",
+    "invite_id": "gxT4N6TsnY",
+    "channels": {
+      "1281245521775951915": "general",
+      "1281245521775951914": "gm-gn"
+    }
+  },
+  {
+    "name": "Symbiotic",
+    "guild_id": "1308889840808366110",
+    "invite_id": "officialsymbioticfi",
+    "channels": {
+      "1321833453641007167": "general",
+      "1322092013193138248": "gmbiotic"
+    }
+  },
+  {
+    "name": "Seismic",
+    "guild_id": "1343751435711414362",
+    "invite_id": "seismic",
+    "channels": {
+      "1343751437087150113": "general"
+    }
+  },
+  {
+    "name": "Meganet",
+    "guild_id": "1306913701047173200",
+    "invite_id": "meganet",
+    "channels": {
+      "1307756597778448404": "general",
+      "1307757067318329525": "gm"
+    }
+  },
+  {
+    "name": "BlackHole Dex",
+    "guild_id": "1338264860496236556",
+    "invite_id": "blackholedex",
+    "channels": {
+      "1350616076731420692": "!rank",
+      "1338264861095755840": "general",
+      "1375200474805829642": "gm"
+    }
+  },
+  {
+    "name": "Gaia",
+    "guild_id": "1215232680942374912",
+    "invite_id": "gaianet-ai",
+    "channels": {
+      "1215253072499052624": "!rank",
+      "1215253012939808810": "general",
+      "1215256291165872128": "gm-gn"
+    }
+  },
+  {
+    "name": "Yupp AI",
+    "guild_id": "1295599159587377203",
+    "invite_id": "yuppai",
+    "channels": {
+      "1295801741346078793": "welcome",
+      "1374479943995756625": "townsquare",
+      "1366554333809999983": "show-and-tell"
+    }
+  },
+  {
+    "name": "Multiple Network",
+    "guild_id": "1252882796209504267",
+    "invite_id": "JGKUaCQvDM",
+    "channels": {
+      "1253234704916942948": "general",
+      "1374997967680966689": "gmultiple"
+    }
+  },
+  {
+    "name": "PEPE Games",
+    "guild_id": "1351897078779084800",
+    "invite_id": "tf2Xu3tum9",
+    "channels": {
+      "1351954328918954065": "general"
+    }
+  },
+  {
+    "name": "Fluence Network",
+    "guild_id": "483968379833679873",
+    "invite_id": "EFHYR6nZrD",
+    "channels": {
+      "483968379833679877": "general",
+      "946007217407148062": "gm"
+    }
+  },
+  {
+    "name": "Re protocol",
+    "guild_id": "1001934954252476436",
+    "invite_id": "reprotocol",
+    "channels": {
+      "1365406049775128657": "newbie-chat",
+      "1277789718775595102": "!rank",
+      "1289990562388381777": "gre",
+      "1294662686281564295": "food"
+    }
+  },
+  {
+    "name": "XOS",
+    "guild_id": "1023795069033119846",
+    "invite_id": "xosnetwork",
+    "channels": {
+      "1312796374604976229": "general",
+      "1327221680459874324": "gm-gn"
+    }
+  },
+  {
+    "name": "LayerEdge",
+    "guild_id": "1214142396938592286",
+    "invite_id": "layeredge",
+    "channels": {
+      "1214142397470998530": "general",
+      "1220047335435014254": "gmedge",
+      "1345848517251432468": "!rank"
+    }
+  },
+  {
+    "name": "Centic",
+    "guild_id": "1085764822144122921",
+    "invite_id": "Pk7wexpsmv",
+    "channels": {
+      "1085764822144122927": "general"
+    }
+  },
+  {
+    "name": "Ducat",
+    "guild_id": "1220803043105443981",
+    "invite_id": "rNf4HKbWv6",
+    "channels": {
+      "1250872069487460534": "general",
+      "1374381748523372574": "gm-gn"
+    }
+  },
+  {
+    "name": "Donut Browser",
+    "guild_id": "1366732076287791205",
+    "invite_id": "ydxgrVnbwB",
+    "channels": {
+      "1366732078296862881": "general",
+      "1366732078296862882": "gm-gn"
+    }
+  },
+  {
+    "name": "GG3",
+    "guild_id": "1169625335755702282",
+    "invite_id": "jNDnrFnR",
+    "channels": {
+      "1364641668648927325": "newbie-chat",
+      "1171509980545941595": "general",
+      "1358733185818820618": "crypto-talk",
+      "1254799466750541844": "brazil-chat"
+    }
+  },
+  {
+    "name": "T-Rex network",
+    "guild_id": "1332004446678290543",
+    "invite_id": "3kf39pEBZn",
+    "channels": {}
+  },
+  {
+    "name": "VRAM",
+    "guild_id": "1346258822733365278",
+    "invite_id": "G3rvmPmztp",
+    "channels": {
+      "1346258823354126338": "general",
+      "1347919432885866577": "gvram",
+      "1358270169067032586": "!rank"
+    }
+  },
+  {
+    "name": "JRNY Earn",
+    "guild_id": "901505743314903081",
+    "invite_id": "jnryclub",
+    "channels": {
+      "1359962921161199907": "general",
+      "1369063388440957008": "/rank"
+    }
+  },
+  {
+    "name": "Oro",
+    "guild_id": "1349045850331938826",
+    "invite_id": "joinoro",
+    "channels": {
+      "1351487907042431027": "gmoro",
+      "1351488160206426227": "general",
+      "1351492950768619552": "!rank"
+    }
+  },
+  {
+    "name": "Kadena",
+    "guild_id": "502858632178958377",
+    "invite_id": "NZcBb2aBQ6",
+    "channels": {
+      "1372148674683076658": "gm-gn",
+      "502858632178958380": "general",
+      "1220399868452012125": "ama",
+      "1336691531159048222": "HR chat",
+      "641021540393025651": "Technical chat"
+    }
+  },
+  {
+    "name": "PinAI",
+    "guild_id": "1229940893642129438",
+    "invite_id": "pinai",
+    "channels": {
+      "1360124010762866829": "gpin",
+      "1359998147065286776": "general",
+      "1364620323219181829": "halo"
+    }
+  },
+  {
+    "name": "Mawari",
+    "guild_id": "1275882423095398487",
+    "invite_id": "mawari",
+    "channels": {
+      "1275882423619551312": "gm",
+      "1275882423619551309": "general",
+      "1275882423619551310": "!rank",
+      "1346177614674530406": "off-topic"
+    }
+  },
+  {
+    "name": "Alkimiya",
+    "guild_id": "805807766886940692",
+    "invite_id": "alkimiya",
+    "channels": {
+      "943366744507047956": "gm",
+      "821879984075440138": "general"
+    }
+  },
+  {
+    "name": "Voxel",
+    "guild_id": "1346831413772816415",
+    "invite_id": "FMhjEGY3Zs",
+    "channels": {
+      "1354419584840499321": "gm",
+      "1347002925901156362": "!rank",
+      "1354472408265785458": "general"
+    }
+  },
+  {
     "name": "QRusader",
     "guild_id": "1361522453582708829",
     "invite_id": "znyWJjnak5",
@@ -60,7 +315,8 @@
     "guild_id": "960981062664740904",
     "invite_id": null,
     "channels": {
-      "1004455093321617580": "general"
+      "1004455093321617580": "general",
+      "1376846334602121276": "ghaha"
     }
   },
   {
@@ -98,6 +354,24 @@
     "channels": {
       "1237659603873824810": "gm",
       "1255077252891152404": "general"
+    }
+  },
+  {
+    "name": "Starpower Network",
+    "guild_id": "1181951066942754816",
+    "invite_id": null,
+    "channels": {
+      "1276815179299946566": "gm",
+      "1246201979626197102": "general"
+    }
+  },
+  {
+    "name": "Zenchain",
+    "guild_id": "1243030097259397130",
+    "invite_id": null,
+    "channels": {
+      "1341296899789160459": "gm",
+      "1243030098127491118": "general"
     }
   },
   {
@@ -158,6 +432,23 @@
     }
   },
   {
+    "name": "Sandwatch",
+    "guild_id": "1155923737120608286",
+    "invite_id": null,
+    "channels": {
+      "1229007942314098739": "general"
+    }
+  },
+  {
+    "name": "Segment Finance",
+    "guild_id": "1155923737120608286",
+    "invite_id": null,
+    "channels": {
+      "1155923737565212690": "general",
+      "1155923737565212691": "gm-gn"
+    }
+  },
+  {
     "name": "Monzilla",
     "guild_id": "1351049895137771610",
     "invite_id": null,
@@ -191,6 +482,16 @@
     "channels": {
       "1021340411022819328": "gmagic",
       "1094710494880866454": "general"
+    }
+  },
+  {
+    "name": "r2",
+    "guild_id": "1308368864505106442",
+    "invite_id": null,
+    "channels": {
+      "1308639443917471754": "general",
+      "1362425053291085917": "gm",
+      "1308641322936303658": "/rank"
     }
   },
   {
@@ -255,6 +556,7 @@
     "guild_id": "1298000367283601428",
     "invite_id": null,
     "channels": {
+      "1298000367283601428": "general",
       "1301941112021188628": "gkite",
       "1361243582094250124": "gg",
       "1337332808200224789": "!rank"
@@ -269,6 +571,12 @@
       "1284157796790702234": "dev chat",
       "1281920828472295440": "general"
     }
+  },
+  {
+    "name": "Balance",
+    "guild_id": "1202430451353124954",
+    "invite_id": null,
+    "channels": {}
   },
   {
     "name": "Bytenova",
@@ -305,7 +613,16 @@
       "1273697728542675048": "general"
     }
   },
-
+  {
+    "name": "Galactica",
+    "guild_id": "1051876745038549002",
+    "invite_id": null,
+    "channels": {
+      "1052616497312317444": "gm",
+      "1051876745684455551": "general",
+      "1105181730526216263": "!rank"
+    }
+  },
   {
     "name": "GamerBoom",
     "guild_id": "1149166981417799791",
@@ -336,7 +653,12 @@
       "1354019462617235487": "gm"
     }
   },
-
+  {
+    "name": "Initia",
+    "guild_id": "1108559906614816829",
+    "invite_id": "initia",
+    "channels": {}
+  },
   {
     "name": "Jiritsu",
     "guild_id": "1230201205020430397",
@@ -354,7 +676,8 @@
     "channels": {
       "1260538908089913384": "!rank",
       "1260539361892630589": "gm",
-      "959531869693681685": "general"
+      "959531869693681685": "general",
+      "1334585829435379722": "king"
     }
   },
   {
