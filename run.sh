@@ -8,6 +8,6 @@ npm install
 
 git pull
 
-node meomundep_discord.js
+node discord_meomundep.js
 
 read -p "Press Enter to continue..."
