@@ -6,5 +6,6 @@ npm init -y
 CALL npm install
 
 git pull
-node meomundep_discord.js
+node index_meomundep.js
 pause
+
