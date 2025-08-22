@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Octra</strong> — Guild ID: <code>1038740318255841280</code></summary>
+
+- **Invite ID**: `octra`
+- **Channels**: 
+  - `1038740318729818212`: `general`
+  - `1286862060394778739`: `gm`
+
+</details>
+
+<details>
 <summary><strong>Injective</strong> — Guild ID: <code>739552603322450092</code></summary>
 
 - **Invite ID**: `injective`
