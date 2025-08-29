@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>KRNL</strong> — Guild ID: <code>1208823608668070018</code></summary>
+
+- **Invite ID**: ``
+- **Channels**: 
+  - `1208823608668070018`: `general`
+  - `1316513605746692286`: `!rank`
+  - `1274109329250717876`: `km-kn`
+
+</details>
+
+<details>
 <summary><strong>Octra</strong> — Guild ID: <code>1038740318255841280</code></summary>
 
 - **Invite ID**: `octra`
