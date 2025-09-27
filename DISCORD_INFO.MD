@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>t1</strong> — Guild ID: <code>1283764423437320295</code></summary>
+
+- **Invite ID**: `qVEUA6jmGZ`
+- **Channels**: 
+  - `1283764423974064159`: `general`
+  - `1283788061661986919`: `gm`
+
+</details>
+
+<details>
 <summary><strong>Olympian Game</strong> — Guild ID: <code>1378906641289973880</code></summary>
 
 - **Invite ID**: ``
