@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Doma</strong> — Guild ID: <code>1146856811207606283</code></summary>
+
+- **Invite ID**: `doma`
+- **Channels**: 
+  - `1377276310576959559`: `gm`
+  - `1147172686632583269`: `general`
+
+</details>
+
+<details>
 <summary><strong>Mindo AI</strong> — Guild ID: <code>1400787114333044887</code></summary>
 
 - **Invite ID**: ``
