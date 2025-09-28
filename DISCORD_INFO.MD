@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Mindo AI</strong> — Guild ID: <code>1400787114333044887</code></summary>
+
+- **Invite ID**: ``
+- **Channels**: 
+  - `1410190513524441120`: `!rank`
+  - `1400848194287439973`: `gm-gn`
+  - `1400848157436280943`: `general`
+
+</details>
+
+<details>
 <summary><strong>t1</strong> — Guild ID: <code>1283764423437320295</code></summary>
 
 - **Invite ID**: `qVEUA6jmGZ`
