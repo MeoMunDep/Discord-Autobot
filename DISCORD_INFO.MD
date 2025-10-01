@@ -678,7 +678,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Arena VS</strong> — Guild ID: <code>915500218961768479</code></summary>
+<summary><strong>VS1</strong> — Guild ID: <code>915500218961768479</code></summary>
 
 - **Invite ID**: *(none)*
 - **Channels**: 
