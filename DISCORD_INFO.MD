@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Gopher</strong> — Guild ID: <code>848996376896602163</code></summary>
+
+- **Invite ID**: ``
+- **Channels**: 
+  - `955422634403844157`: `gm-gn`
+  - `906256283068403732`: `general`
+  - `1217114388373311640`: `goai`
+
+</details>
+
+<details>
 <summary><strong>Folk Finance</strong> — Guild ID: <code>852212243596050433</code></summary>
 
 - **Invite ID**: `folksfinance`
