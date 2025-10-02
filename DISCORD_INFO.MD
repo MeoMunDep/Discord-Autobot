@@ -1051,14 +1051,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>SonicSVM</strong> — Guild ID: <code>878219562351484948</code></summary>
-
-- **Invite ID**: `joinmirrorworld`
-- **Channels**: *(none listed)*
-
-</details>
-
-<details>
 <summary><strong>StoryChain</strong> — Guild ID: <code>1187372655096102992</code></summary>
 
 - **Invite ID**: *(none)*
