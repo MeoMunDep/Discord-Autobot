@@ -578,15 +578,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Sandwatch</strong> — Guild ID: <code>1155923737120608286</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1229007942314098739`: `general`
-
-</details>
-
-<details>
 <summary><strong>Segment Finance</strong> — Guild ID: <code>1155923737120608286</code></summary>
 
 - **Invite ID**: *(none)*
