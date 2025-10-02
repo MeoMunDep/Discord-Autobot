@@ -992,16 +992,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Prodigy</strong> — Guild ID: <code>1281205921955188738</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1284098737307779192`: `general`
-  - `1326875520297598987`: `daily`
-
-</details>
-
-<details>
 <summary><strong>SegaFi</strong> — Guild ID: <code>1271370062942568448</code></summary>
 
 - **Invite ID**: `sk8mGwb4A4`
