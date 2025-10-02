@@ -597,16 +597,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Plasma</strong> — Guild ID: <code>1296452737562841111</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1296452738141524003`: `general`
-  - `1296487781924733121`: `gm`
-
-</details>
-
-<details>
 <summary><strong>Zero1 Labs</strong> — Guild ID: <code>1184532962453237851</code></summary>
 
 - **Invite ID**: *(none)*
