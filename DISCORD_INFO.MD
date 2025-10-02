@@ -932,16 +932,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Moongate</strong> — Guild ID: <code>948159905494335488</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1258441940278706298`: `gmoon`
-  - `955506597818408971`: `general`
-
-</details>
-
-<details>
 <summary><strong>OpenGradient</strong> — Guild ID: <code>1132794141403791483</code></summary>
 
 - **Invite ID**: *(none)*
