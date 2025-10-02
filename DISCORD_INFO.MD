@@ -876,7 +876,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>MAITRIX</strong> — Guild ID: <code>1358615794354749482</code></summary>
+<summary><strong>CENTRAL</strong> — Guild ID: <code>1358615794354749482</code></summary>
 
 - **Invite ID**: `themaitrixai`
 - **Channels**: 
