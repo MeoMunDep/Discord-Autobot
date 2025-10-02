@@ -845,14 +845,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Initia</strong> — Guild ID: <code>1108559906614816829</code></summary>
-
-- **Invite ID**: `initia`
-- **Channels**: *(none listed)*
-
-</details>
-
-<details>
 <summary><strong>Jiritsu</strong> — Guild ID: <code>1230201205020430397</code></summary>
 
 - **Invite ID**: `ARA5PvyWU7`
