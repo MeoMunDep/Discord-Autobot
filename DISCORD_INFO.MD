@@ -567,17 +567,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Mira</strong> — Guild ID: <code>1235106299424018433</code></summary>
-
-- **Invite ID**: `mira-network`
-- **Channels**: 
-  - `1235218360204136468`: `general`
-  - `1235221121511587901`: `gmira`
-  - `1263144808801636392`: `!rank`
-
-</details>
-
-<details>
 <summary><strong>Segment Finance</strong> — Guild ID: <code>1155923737120608286</code></summary>
 
 - **Invite ID**: *(none)*
