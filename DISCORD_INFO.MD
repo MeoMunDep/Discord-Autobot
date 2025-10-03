@@ -680,64 +680,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Portal to Bitcoin</strong> — Guild ID: <code>836487882981769237</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**:
-  - `1308928123177537608` — `gm-gn`
-
-</details>
-
-<details>
-<summary><strong>SegaFi</strong> — Guild ID: <code>1271370062942568448</code></summary>
-
-- **Invite ID**: `sk8mGwb4A4`
-- **Channels**: *(none listed)*
-
-</details>
-
-<details>
-<summary><strong>Skate</strong> — Guild ID: <code>1217379731750522921</code></summary>
-
-- **Invite ID**: `skatechain`
-- **Channels**: 
-  - `1218663243573362781`: `gskate`
-  - `1218663463728058378`: `general`
-  - `1362221108207554651`: `Bangladesh chat`
-
-</details>
-
-<details>
-<summary><strong>Sogni</strong> — Guild ID: <code>1173741858887839776</code></summary>
-
-- **Invite ID**: `genome`
-- **Channels**: 
-  - `1303669927760101397`: `gm-gn`
-
-</details>
-
-<details>
-<summary><strong>Somnia</strong> — Guild ID: <code>1209923224620761088</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1209925258585571399`: `general`
-  - `1209926199019569303`: `gsomnia`
-  - `1303669927760101397`: `gm-gn-hi`
-  - `1237047946592124939`: `west-africa chat`
-
-</details>
-
-<details>
-<summary><strong>Sonic Labs</strong> — Guild ID: <code>582931087005843466</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `582952123709521940`: `general`
-
-</details>
-
-<details>
 <summary><strong>StoryChain</strong> — Guild ID: <code>1187372655096102992</code></summary>
 
 - **Invite ID**: *(none)*
@@ -766,16 +708,3 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1276815179299946566` — `gm-gn`
 
 </details>
-
-<details>
-<summary><strong>XRPL EVM</strong> — Guild ID: <code>1143643230492168274</code></summary>
-
-- **Invite ID**: `xrplevm`
-- **Channels**:
-  - `1143643231930810462`: `general`
-  - `1363263843064746034`: `nigerian chat`
-  - `1146152932614606879`: `funding`
-  - `1144272382501081098`: `gm`
-
-</details>
-
