@@ -577,16 +577,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Patero</strong> — Guild ID: <code>606071749657755668</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1344387332324855879`: `gms`
-  - `606071749657755670`: `general`
-
-</details>
-
-<details>
 <summary><strong>StoryChain</strong> — Guild ID: <code>1187372655096102992</code></summary>
 
 - **Invite ID**: *(none)*
