@@ -14,6 +14,17 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Perspective AI</strong> — Guild ID: <code>1268505675844292669</code></summary>
+
+- **Invite ID**: `uk5KCRujuP`
+- **Channels**: 
+  - `1360016346217320508`: `gm`
+  - `1275804539399831600`: `general`
+  - `1372869321558200340`: `!rank`
+
+</details>
+
+<details>
 <summary><strong>Gopher</strong> — Guild ID: <code>848996376896602163</code></summary>
 
 - **Invite ID**: ``
