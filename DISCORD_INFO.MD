@@ -77,16 +77,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Olympian Game</strong> — Guild ID: <code>1378906641289973880</code></summary>
-
-- **Invite ID**: ``
-- **Channels**: 
-  - `1385127345454715001`: `general`
-  - `1387959457568526448`: `!rank`
-
-</details>
-
-<details>
 <summary><strong>KRNL</strong> — Guild ID: <code>1208823608668070018</code></summary>
 
 - **Invite ID**: ``
@@ -148,17 +138,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>BlackHole Dex</strong> — Guild ID: <code>1338264860496236556</code></summary>
-
-- **Invite ID**: `blackholedex`
-- **Channels**: 
-  - `1350616076731420692`: `!rank`
-  - `1338264861095755840`: `general`
-  - `1375200474805829642`: `gm`
-
-</details>
-
-<details>
 <summary><strong>Gaia</strong> — Guild ID: <code>1215232680942374912</code></summary>
 
 - **Invite ID**: `gaianet-ai`
@@ -166,36 +145,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1215253072499052624`: `!rank`
   - `1215253012939808810`: `general`
   - `1215256291165872128`: `gm-gn`
-
-</details>
-
-<details>
-<summary><strong>Yupp AI</strong> — Guild ID: <code>1295599159587377203</code></summary>
-
-- **Invite ID**: `yuppai`
-- **Channels**: 
-  - `1295801741346078793`: `welcome`
-  - `1374479943995756625`: `townsquare`
-  - `1366554333809999983`: `show-and-tell`
-
-</details>
-
-<details>
-<summary><strong>Multiple Network</strong> — Guild ID: <code>1252882796209504267</code></summary>
-
-- **Invite ID**: `JGKUaCQvDM`
-- **Channels**: 
-  - `1253234704916942948`: `general`
-  - `1374997967680966689`: `gmultiple`
-
-</details>
-
-<details>
-<summary><strong>PEPE Games</strong> — Guild ID: <code>1351897078779084800</code></summary>
-
-- **Invite ID**: `tf2Xu3tum9`
-- **Channels**: 
-  - `1351954328918954065`: `general`
 
 </details>
 
@@ -210,29 +159,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Re protocol</strong> — Guild ID: <code>1001934954252476436</code></summary>
-
-- **Invite ID**: `reprotocol`
-- **Channels**: 
-  - `1365406049775128657`: `general`
-  - `1365406049775128657`: `newbie-chat`
-  - `1277789718775595102`: `!rank`
-  - `1289990562388381777`: `gre`
-  - `1294662686281564295`: `food`
-
-</details>
-
-<details>
-<summary><strong>XOS</strong> — Guild ID: <code>1023795069033119846</code></summary>
-
-- **Invite ID**: `xosnetwork`
-- **Channels**: 
-  - `1312796374604976229`: `general`
-  - `1327221680459874324`: `gm-gn`
-
-</details>
-
-<details>
 <summary><strong>LayerEdge</strong> — Guild ID: <code>1214142396938592286</code></summary>
 
 - **Invite ID**: `layeredge`
@@ -240,15 +166,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1214142397470998530`: `general`
   - `1220047335435014254`: `gmedge`
   - `1345848517251432468`: `!rank`
-
-</details>
-
-<details>
-<summary><strong>Centic</strong> — Guild ID: <code>1085764822144122921</code></summary>
-
-- **Invite ID**: `Pk7wexpsmv`
-- **Channels**: 
-  - `1085764822144122927`: `general`
 
 </details>
 
