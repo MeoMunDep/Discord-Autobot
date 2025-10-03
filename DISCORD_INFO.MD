@@ -434,16 +434,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Kofi Finance</strong> — Guild ID: <code>1323165177121603666</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1323165177121603669`: `gm`
-  - `1341404586916843621`: `general`
-
-</details>
-
-<details>
 <summary><strong>Part Of Dreams</strong> — Guild ID: <code>1110195999101689927</code></summary>
 
 - **Invite ID**: **None**
@@ -451,37 +441,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1344753252255662151`: `gm`
   - `1110195999638552730`: `general`
   - `1344752947963236422`: `!rank`
-
-</details>
-
-<details>
-<summary><strong>Haha</strong> — Guild ID: <code>960981062664740904</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1004455093321617580`: `general`
-  - `1376846334602121276`: `ghaha`
-
-</details>
-
-<details>
-<summary><strong>The Growth Protocol</strong> — Guild ID: <code>1310995128214622289</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1310995128214622292`: `general`
-
-</details>
-
-<details>
-<summary><strong>Taker Protocol</strong> — Guild ID: <code>1325135931296186531</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1325135931296186531`: `gm`
-  - `1294327743013589043`: `!rank`
-  - `1330068632926945300`: `og`
-  - `912911468427628595`: `general`
 
 </details>
 
@@ -496,56 +455,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Memecore</strong> — Guild ID: <code>1235773380121071656</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1237659603873824810`: `gm`
-  - `1255077252891152404`: `general`
-
-</details>
-
-<details>
-<summary><strong>Starpower Network</strong> — Guild ID: <code>1181951066942754816</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1276815179299946566`: `gm`
-  - `1246201979626197102`: `general`
-
-</details>
-
-<details>
-<summary><strong>Zenchain</strong> — Guild ID: <code>1243030097259397130</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1341296899789160459`: `gm`
-  - `1243030098127491118`: `general`
-
-</details>
-
-<details>
-<summary><strong>funkybit</strong> — Guild ID: <code>1206128759485374474</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1323648590236614686`: `gm`
-  - `1206484273024999425`: `general`
-
-</details>
-
-<details>
-<summary><strong>GPUNET</strong> — Guild ID: <code>1083646475608784906</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1363901923077652653`: `gm`
-  - `1083646475608784909`: `general`
-
-</details>
-
-<details>
 <summary><strong>Primus Labs</strong> — Guild ID: <code>1125704047085760595</code></summary>
 
 - **Invite ID**: **None**
@@ -556,73 +465,12 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Huddle01</strong> — Guild ID: <code>890224574761926756</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `939625747742617671`: `HUDL`
-  - `890224574761926762`: `general`
-  - `1336724466662637629`: `!rank`
-
-</details>
-
-<details>
-<summary><strong>Netherak Demons</strong> — Guild ID: <code>1351569011393167452</code></summary>
-
-- **Invite ID**: **None**
-- **Channels**: 
-  - `1359765132967809085`: `gm-gn`
-  - `1351569012328239120`: `general`
-  - `1359806440923074611`: `!rank`
-
-</details>
-
-<details>
-<summary><strong>Segment Finance</strong> — Guild ID: <code>1155923737120608286</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1155923737565212690`: `general`
-  - `1155923737565212691`: `gm-gn`
-
-</details>
-
-<details>
-<summary><strong>Zero1 Labs</strong> — Guild ID: <code>1184532962453237851</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1328117553649815672`: `general`
-
-</details>
-
-<details>
 <summary><strong>MagicBlock</strong> — Guild ID: <code>943797222162726962</code></summary>
 
 - **Invite ID**: *(none)*
 - **Channels**: 
   - `1021340411022819328`: `gmagic`
   - `1094710494880866454`: `general`
-
-</details>
-
-<details>
-<summary><strong>r2</strong> — Guild ID: <code>1308368864505106442</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1308639443917471754`: `general`
-  - `1362425053291085917`: `gm`
-  - `1308641322936303658`: `/rank`
-
-</details>
-
-<details>
-<summary><strong>3DOS</strong> — Guild ID: <code>1206236320092131338</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1206236320574345220`: `general`
 
 </details>
 
@@ -660,16 +508,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Hub.xyz</strong> — Guild ID: <code>1290417312683393034</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1290417312683393037`: `general-chat`
-  - `1340994226372087830`: `gm`
-
-</details>
-
-<details>
 <summary><strong>Incentive</strong> — Guild ID: <code>1119971731885527151</code></summary>
 
 - **Invite ID**: *(none)*
@@ -700,17 +538,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1281920828472295442`: `gm`
   - `1284157796790702234`: `dev chat`
   - `1281920828472295440`: `general`
-
-</details>
-
-<details>
-<summary><strong>Balance</strong> — Guild ID: <code>1202430451353124954</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**:
-  - `1227100860979347456` — `gm-gn`
-  - `1282403819262705726` — `!rank`
-  - `1227100545265700906` — `general`
 
 </details>
 
@@ -765,28 +592,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Galactica</strong> — Guild ID: <code>1051876745038549002</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1052616497312317444`: `gm`
-  - `1051876745684455551`: `general`
-  - `1105181730526216263`: `!rank`
-
-</details>
-
-<details>
-<summary><strong>GamerBoom</strong> — Guild ID: <code>1149166981417799791</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**:
-  - `1209719681754071141` — `gm-gn`
-  - `1149166982357323872` — `general`
-  - `1342089680191094826` — `!rank`
-
-</details>
-
-<details>
 <summary><strong>Genome Protocol</strong> — Guild ID: <code>1110108550228873349</code></summary>
 
 - **Invite ID**: `genome`
@@ -794,14 +599,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1110108550837059586`: `general`
   - `1126738342529220730`: `gm`
   - `1175060135102652448`: `!rank`
-
-</details>
-
-<details>
-<summary><strong>GMAI</strong> — Guild ID: <code>1235817893095149658</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: *(none listed)*
 
 </details>
 
@@ -851,38 +648,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>MagicNewton</strong> — Guild ID: <code>1296867262166204477</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1351975159162077286`: `gm newton`
-  - `1360021038796374056`: `!rank`
-  - `1296867262166204480`: `general`
-
-</details>
-
-<details>
-<summary><strong>Matchchain</strong> — Guild ID: <code>1039181690007998525</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**:
-  - `1039182396450414653` — `gm-gn`
-  - `1039183358573432863` — `!rank`
-  - `1040525523673174086` — `English chat`
-
-</details>
-
-<details>
-<summary><strong>Mavryk</strong> — Guild ID: <code>1141663924815671337</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1141663926820552717`: `general`
-  - `1364678728898314260`: `gm-gn`
-
-</details>
-
-<details>
 <summary><strong>MonAI</strong> — Guild ID: <code>1341847161003970570</code></summary>
 
 - **Invite ID**: *(none)*
@@ -901,26 +666,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1137965687529283674`: `gm`
   - `1137965713143894137`: `general`
   - `1313064716821856278`: `!rank`
-
-</details>
-
-<details>
-<summary><strong>OpenLedger</strong> — Guild ID: <code>1281511866190925867</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1316298147126968435`: `gm`
-  - `1305830653488664637`: `general`
-
-</details>
-
-<details>
-<summary><strong>Optimum</strong> — Guild ID: <code>1354818163879182519</code></summary>
-
-- **Invite ID**: *(none listed)*
-- **Channels**: 
-  - `1356245748056064111`: `gmum`
-  - `1354818164554207244`: `general`
 
 </details>
 
