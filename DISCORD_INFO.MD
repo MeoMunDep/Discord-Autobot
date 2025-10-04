@@ -14,6 +14,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Psychonaut</strong> — Guild ID: <code>1370919648090132651</code></summary>
+
+- **Invite ID**: `PsyProtocol`
+- **Channels**: 
+  - `1371373665215578132`: `general`
+
+</details>
+
+<details>
 <summary><strong>Perspective AI</strong> — Guild ID: <code>1268505675844292669</code></summary>
 
 - **Invite ID**: `uk5KCRujuP`
