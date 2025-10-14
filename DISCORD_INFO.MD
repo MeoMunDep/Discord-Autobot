@@ -457,17 +457,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Autheo</strong> — Guild ID: <code>1281920825309532233</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**: 
-  - `1281920828472295442`: `gm`
-  - `1284157796790702234`: `dev chat`
-  - `1281920828472295440`: `general`
-
-</details>
-
-<details>
 <summary><strong>Bytenova</strong> — Guild ID: <code>1324007859637194844</code></summary>
 
 - **Invite ID**: `dnDNRrUGNm`
@@ -497,34 +486,12 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Fiamma</strong> — Guild ID: <code>1245655860252770325</code></summary>
-
-- **Invite ID**: *(none)*
-- **Channels**:
-  - `1246756522415886346` — `gfiamma`
-  - `1246756459673419856` — `general`
-  - `1318031399466434632` — `/rank`
-
-</details>
-
-<details>
 <summary><strong>GAIB</strong> — Guild ID: <code>1273697728014188664</code></summary>
 
 - **Invite ID**: *(none)*
 - **Channels**: 
   - `1273697728542675053`: `gaibm`
   - `1273697728542675048`: `general`
-
-</details>
-
-<details>
-<summary><strong>Genome Protocol</strong> — Guild ID: <code>1110108550228873349</code></summary>
-
-- **Invite ID**: `genome`
-- **Channels**: 
-  - `1110108550837059586`: `general`
-  - `1126738342529220730`: `gm`
-  - `1175060135102652448`: `!rank`
 
 </details>
 
@@ -557,19 +524,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1260539361892630589`: `gm`
   - `959531869693681685`: `general`
   - `1334585829435379722`: `king`
-
-</details>
-
-<details>
-<summary><strong>CENTRAL</strong> — Guild ID: <code>1358615794354749482</code></summary>
-
-- **Invite ID**: `themaitrixai`
-- **Channels**: 
-  - `1359446739697799329`: `!rank`
-  - `1360258642502357002`: `gm`
-  - `1358819208456048892`: `general`
-  - `1358617529924194477`: `off-topic`
-  - `1359104939804328002`: `/quests`
 
 </details>
 
