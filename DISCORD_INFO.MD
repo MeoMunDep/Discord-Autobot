@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Brevis</strong> — Guild ID: <code>1245615396254650378</code></summary>
+
+- **Invite ID**: `QTRkjKdZ6A`
+- **Channels**:
+  - `1306263938463436813`: `gm-gn`
+  - `1245615396254650381`: `general`
+
+</details>
+
+<details>
 <summary><strong>Mento</strong> — Guild ID: <code>966739027782955068</code></summary>
 
 - **Invite ID**: `4H64dBNE`
