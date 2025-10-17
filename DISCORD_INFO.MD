@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Mento</strong> — Guild ID: <code>966739027782955068</code></summary>
+
+- **Invite ID**: `4H64dBNE`
+- **Channels**:
+  - `1428444035550417039`: `gm-gn`
+  - `966739028256907368`: `general`
+
+</details>
+
+<details>
 <summary><strong>Yupp AI</strong> — Guild ID: <code></code></summary>
 
 - **Invite ID**: `yuppai`
