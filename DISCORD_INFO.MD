@@ -14,6 +14,15 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Cerebro</strong> — Guild ID: <code>1408098695064588288</code></summary>
+
+- **Invite ID**: `RN93k9UWbP`
+- **Channels**:
+  - `1408098696314355815`: `general`
+
+</details>
+
+<details>
 <summary><strong>Rhuna</strong> — Guild ID: <code>1203304895143223316</code></summary>
 
 - **Invite ID**: `6BQsQC8p2u`
