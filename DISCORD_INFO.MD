@@ -14,6 +14,16 @@ Please create a pull request using the format below. Each project (Discord serve
 Below is the sorted list of guilds from A to Z based on their names, maintaining the same structure as provided:
 
 <details>
+<summary><strong>Boba</strong> — Guild ID: <code>1415521795125022801</code></summary>
+
+- **Invite ID**: `tradeonboba`
+- **Channels**:
+  - `1415521796081319978`: `gm`
+  - `1415521796081319979`: `general`
+
+</details>
+
+<details>
 <summary><strong>Cerebro</strong> — Guild ID: <code>1408098695064588288</code></summary>
 
 - **Invite ID**: `RN93k9UWbP`
