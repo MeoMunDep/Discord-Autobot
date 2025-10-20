@@ -33,6 +33,16 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
+<summary><strong>Altius Lab</strong> — Guild ID: <code>1332142278935838783</code></summary>
+
+- **Invite ID**: `altiuslabs`
+- **Channels**:
+  - `1338161352316948582`: `gm`
+  - `1338161270763032621`: `general`
+
+</details>
+
+<details>
 <summary><strong>Rhuna</strong> — Guild ID: <code>1203304895143223316</code></summary>
 
 - **Invite ID**: `6BQsQC8p2u`
