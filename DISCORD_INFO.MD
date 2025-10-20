@@ -44,6 +44,16 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
+<summary><strong>Brevis</strong> — Guild ID: <code>1366770072940576939</code></summary>
+
+- **Invite ID**: `bMc3mNbZbR`
+- **Channels**:
+  - `1368122147477655552`: `gd1ck`
+  - `1368120841312669703`: `general`
+
+</details>
+
+<details>
 <summary><strong>Brevis</strong> — Guild ID: <code>1245615396254650378</code></summary>
 
 - **Invite ID**: `QTRkjKdZ6A`
