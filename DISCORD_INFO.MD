@@ -24,6 +24,15 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
+<summary><strong>IOPn</strong> — Guild ID: <code>1369791841020674168</code></summary>
+
+- **Invite ID**: `iopn`
+- **Channels**:
+  - `1369794163851264020`: `general`
+
+</details>
+
+<details>
 <summary><strong>Cerebro</strong> — Guild ID: <code>1408098695064588288</code></summary>
 
 - **Invite ID**: `RN93k9UWbP`
