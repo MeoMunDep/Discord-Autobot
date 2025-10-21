@@ -1,7 +1,7 @@
 {
   "maxAccountsAtOnce": 1,
   "delayBetweenAccounts": 17,
-  "delayEachChat": [7, 11, 15],
+  "delayEachChat": [11, 15],
   "delayEachChannel": [5, 7, 9],
   "timeToRestartAllAccounts": 360,
 
@@ -25,4 +25,5 @@
     "poe": [""]
   }
 }
+
 
