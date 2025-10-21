@@ -249,16 +249,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Injective</strong> — Guild ID: <code>739552603322450092</code></summary>
-
-- **Invite ID**: `injective`
-- **Channels**:
-  - `739552603322450095`: `general`
-  - `1255195982543585310`: `lounge`
-  - `1263906515538939934`: `!rank`
-
-</details>
-
 <details>
 
 <summary><strong>IOPn</strong> — Guild ID: <code>1369791841020674168</code></summary>
