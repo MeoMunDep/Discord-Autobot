@@ -108,9 +108,10 @@ This bot automates interactions on **Discord**, including sending messages, join
   "enable_ai_replies": true,
 
   "ai_providers": {
-    "groq": "",
-    "openrouter": "",
-    "gemini": ""
+    "groq": [""],
+    "openrouter": [""],
+    "gemini": [""],
+    "poe": [""]
   }
 }
 ```
@@ -129,6 +130,11 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 [OPENROUTER_API_KEY Link](https://openrouter.ai/settings/keys)
 ![OPENROUTER_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/OPENROUTER_API_KEY.png?raw=true)
+
+---
+
+[POE_API_KEY Link](https://poe.com/api_key)
+![POE_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/POE_API_KEY.png?raw=true)
 
 ---
 
