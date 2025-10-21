@@ -398,16 +398,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 </details>
 
 <details>
-<summary><strong>Moai Finance</strong> — Guild ID: <code>1174206838238101604</code></summary>
-
-- **Invite ID**: `A85PwmdqhF`
-- **Channels**: 
-  - `1174206838238101607`: `gm`
-  - `1177214595312656414`: `general`
-
-</details>
-
-<details>
 <summary><strong>Gaea</strong> — Guild ID: <code>1264832793536630816</code></summary>
 
 - **Invite ID**: `aigaea`
