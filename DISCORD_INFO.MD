@@ -15,17 +15,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Alkimiya</strong> — Guild ID: <code>805807766886940692</code></summary>
-
-- **Invite ID**: `alkimiya`
-- **Channels**:
-  - `821879984075440138`: `general`
-  - `943366744507047956`: `gm`
-
-</details>
-
-<details>
-
 <summary><strong>Altius Lab</strong> — Guild ID: <code>1332142278935838783</code></summary>
 
 - **Invite ID**: `altiuslabs`
