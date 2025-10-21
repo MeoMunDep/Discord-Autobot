@@ -2,7 +2,7 @@
   "maxAccountsAtOnce": 1,
   "delayBetweenAccounts": 17,
   "delayEachChat": [11, 15],
-  "delayEachChannel": [7, 9],
+  "delayEachChannel": [17, 19],
   "timeToRestartAllAccounts": 360,
 
   "chat_language": "en",
@@ -17,14 +17,13 @@
   "enable_ai_replies": true,
 
    "ai_providers": {
+    "poe": [""],
     "groq": [""],
-    "openrouter": [
-      ""
-    ],
     "gemini": [""],
-    "poe": [""]
+    "openrouter": [""]
   }
 }
+
 
 
 
