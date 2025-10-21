@@ -630,15 +630,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>T-Rex network</strong> — Guild ID: <code>1332004446678290543</code></summary>
-
-- **Invite ID**: `3kf39pEBZn`
-- **Channels**:
-
-</details>
-
-<details>
-
 <summary><strong>Valhalla</strong> — Guild ID: <code>1318047355169275934</code></summary>
 
 - **Invite ID**: **None**
