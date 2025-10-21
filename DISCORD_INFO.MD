@@ -586,15 +586,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Symbiotic</strong> — Guild ID: <code>1308889840808366110</code></summary>
-
-- **Invite ID**: `officialsymbioticfi`
-- **Channels**:
-  - `1321833453641007167`: `general`
-  - `1322092013193138248`: `gmbiotic`
-
-</details>
-
 <details>
 
 <summary><strong>t1</strong> — Guild ID: <code>1283764423437320295</code></summary>
