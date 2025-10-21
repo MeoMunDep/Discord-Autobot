@@ -71,8 +71,8 @@ This bot automates interactions on **Discord**, including sending messages, join
 |----------------------------|---------------------------------------------------------------------------------|
 | `maxAccountsAtOnce`        | Number of accounts to run at the same time                                      |
 | `delayBetweenAccounts`     | Delay (in seconds) between starting each account                                |
-| `delayEachChannel`         | List of delays (in seconds) between messages in different channels              |
-| `delayEachChat`            | List of delays (in seconds) between messages in different chats                 |
+| `delayEachChannel`         | Delay (in seconds) between messages in different channels              |
+| `delayEachChat`            | Delay (in seconds) between messages in different chats                 |
 | `timeToRestartAllAccounts` | Time (in seconds) to restart all accounts and begin again                       |
 | `chat_language`            | Language used for auto-generated messages                                       |
 | `auto_chat`                | Enable/disable automatic chatting                                               |
@@ -91,10 +91,10 @@ This bot automates interactions on **Discord**, including sending messages, join
 ```json
 {
   "maxAccountsAtOnce": 1,
-  "delayBetweenAccounts": 15,
-  "delayEachChannel": [3, 5, 7],
-  "delayEachChat": [5, 10, 15],
-  "timeToRestartAllAccounts": 3600,
+  "delayBetweenAccounts": 17,
+  "delayEachChat": [11, 15],
+  "delayEachChannel": [17, 19],
+  "timeToRestartAllAccounts": 360,
 
   "chat_language": "en",
 
@@ -103,15 +103,15 @@ This bot automates interactions on **Discord**, including sending messages, join
   "leave_server": true,
   "delete_message": true,
   "enable_replies": true,
-  "enable_reactions": true,
   "reaction_chance": 0.5,
+  "enable_reactions": true,
   "enable_ai_replies": true,
 
-  "ai_providers": {
+   "ai_providers": {
+    "poe": [""],
     "groq": [""],
-    "openrouter": [""],
     "gemini": [""],
-    "poe": [""]
+    "openrouter": [""]
   }
 }
 ```
