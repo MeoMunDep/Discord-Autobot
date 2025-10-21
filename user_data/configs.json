@@ -16,9 +16,13 @@
   "enable_reactions": true,
   "enable_ai_replies": true,
 
-  "ai_providers": {
-    "groq": "",
-    "gemini": "",
-    "openrouter": ""
+   "ai_providers": {
+    "groq": [""],
+    "openrouter": [
+      ""
+    ],
+    "gemini": [""],
+    "poe": [""]
   }
 }
+
