@@ -250,19 +250,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>JRNY Earn</strong> — Guild ID: <code>901505743314903081</code></summary>
-
-- **Invite ID**: `jnryclub`
-- **Channels**:
-  - `1359962921161199907`: `general`
-  - `1369063388440957008`: `/rank`
-
-</details>
-
-<details>
-
-<details>
-
 <summary><strong>KiteAI</strong> — Guild ID: <code>1298000367283601428</code></summary>
 
 - **Invite ID**: _(none)_
