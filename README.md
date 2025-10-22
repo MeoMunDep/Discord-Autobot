@@ -69,6 +69,8 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 ---
 
+<details>
+
 ## ⚙️ Configuration (`configs.json`)
 
 | ⚙️ Setting                  | 📘 Description                                                                 |
@@ -140,6 +142,8 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 [POE_API_KEY Link](https://poe.com/api_key)
 ![POE_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/POE_API_KEY.png?raw=true)
+
+</details>
 
 ---
 
