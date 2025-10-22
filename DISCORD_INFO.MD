@@ -113,17 +113,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Deriw</strong> — Guild ID: <code>1197128320299565166</code></summary>
-
-- **Invite ID**: `deriwfinance`
-- **Channels**:
-  - `1197128320299565169`: `general`
-  - `1253576696301490198`: `gm`
-
-</details>
-
-<details>
-
 <summary><strong>Doma</strong> — Guild ID: <code>1146856811207606283</code></summary>
 
 - **Invite ID**: `doma`
