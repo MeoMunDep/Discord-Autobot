@@ -168,17 +168,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Folk Finance</strong> — Guild ID: <code>852212243596050433</code></summary>
-
-- **Invite ID**: `folksfinance`
-- **Channels**:
-  - `852224692671741963`: `general`
-  - `941623796211806238`: `gm-gn`
-
-</details>
-
-<details>
-
 <summary><strong>GAIB</strong> — Guild ID: <code>1273697728014188664</code></summary>
 
 - **Invite ID**: _(none)_
