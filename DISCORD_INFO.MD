@@ -191,18 +191,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Gaia</strong> — Guild ID: <code>1215232680942374912</code></summary>
-
-- **Invite ID**: `gaianet-ai`
-- **Channels**:
-  - `1215253012939808810`: `general`
-  - `1215253072499052624`: `!rank`
-  - `1215256291165872128`: `gm-gn`
-
-</details>
-
-<details>
-
 <summary><strong>Gopher</strong> — Guild ID: <code>848996376896602163</code></summary>
 
 - **Invite ID**: \`\`
