@@ -313,18 +313,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>LayerEdge</strong> — Guild ID: <code>1214142396938592286</code></summary>
-
-- **Invite ID**: `layeredge`
-- **Channels**:
-  - `1214142397470998530`: `general`
-  - `1220047335435014254`: `gmedge`
-  - `1345848517251432468`: `!rank`
-
-</details>
-
-<details>
-
 <summary><strong>MagicBlock</strong> — Guild ID: <code>943797222162726962</code></summary>
 
 - **Invite ID**: _(none)_
