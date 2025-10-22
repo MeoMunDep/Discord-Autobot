@@ -228,16 +228,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Incentiv</strong> — Guild ID: <code>1119971731885527151</code></summary>
-
-- **Invite ID**: _(none)_
-- **Channels**:
-  - `1354019462617235487`: `gm`
-
-</details>
-
-<details>
-
 <summary><strong>IOPn</strong> — Guild ID: <code>1369791841020674168</code></summary>
 
 - **Invite ID**: `iopn`
