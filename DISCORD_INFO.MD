@@ -203,19 +203,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>GG3</strong> — Guild ID: <code>1169625335755702282</code></summary>
-
-- **Invite ID**: `jNDnrFnR`
-- **Channels**:
-  - `1171509980545941595`: `general`
-  - `1254799466750541844`: `brazil-chat`
-  - `1358733185818820618`: `crypto-talk`
-  - `1364641668648927325`: `newbie-chat`
-
-</details>
-
-<details>
-
 <summary><strong>Gopher</strong> — Guild ID: <code>848996376896602163</code></summary>
 
 - **Invite ID**: \`\`
