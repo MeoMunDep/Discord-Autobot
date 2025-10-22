@@ -2,7 +2,7 @@
 
 Please create a pull request using the format below. Each project (Discord server) is presented as an expandable section, which includes:
 
-- `guild_id`, `invite_id`, `channels` and `name` for `servers.json` (if available) 
+- `guild_id`, `invite_id`, `channels` and `name` for `servers.json` (if available)
 - All associated chat `Channel IDs` and their descriptions (e.g., `gm-gn`, `announcements`...)
 
 > ⚠️ Ensure all **IDs and names are accurate** and that you keep the formatting consistent for readability.
@@ -571,8 +571,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
   - `1213247980849864744`: `gm-gn`
 
 </details>
-
-<details>
 
 <details>
 
