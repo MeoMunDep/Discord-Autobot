@@ -364,7 +364,7 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 - **Invite ID**: \`\`
 - **Channels**:
   - `1400848157436280943`: `general`
-  - `1400848194287439973`: `gm-gn`
+  - `1400848194287439973`: `gmindo`
   - `1410190513524441120`: `!rank`
 
 </details>
