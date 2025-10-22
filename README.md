@@ -1,6 +1,10 @@
 # 🤖 Discord Automation Bot by @MeoMunDep
 
-![DISCORD_MEOMUNDEP_CLI](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/DISCORD_MEOMUNDEP_CLI.png?raw=true)
+<p align="center">
+  <img src="https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/DISCORD_MEOMUNDEP_CLI.png?raw=true" width="600" />
+</p>
+
+---
 
 ## 🌐 Overview
 This bot automates interactions on **Discord**, including sending messages, joining/leaving servers, and handling messages using **multiple accounts** with **proxy support**.
@@ -8,42 +12,49 @@ This bot automates interactions on **Discord**, including sending messages, join
 ---
 
 ## 🚀 Features
-- 💬 **Auto Messaging**: Sends messages to specified channels.
-- ➕ **Auto Join Servers**: Joins servers using invite links.
-- ➖ **Auto Leave Servers**: Leaves specified servers.
-- 🌍 **Proxy Support**: Supports HTTP(S) and SOCKS5 proxies.
-- 🗑️ **Auto Message Deletion**: Deletes sent messages after a configurable delay.
-- 🌐 **Multi-language Support**: Configurable message language.
-- 📕 **Save error channels or servers ID**: Store IDs of servers or channels where errors occurred (e.g., missing permissions, channel not found, message send failed).
+- 💬 **Auto Messaging** — Sends messages to specified channels  
+- ➕ **Auto Join Servers** — Joins servers using invite links  
+- ➖ **Auto Leave Servers** — Leaves specified servers  
+- 🌍 **Proxy Support** — Supports HTTP(S) and SOCKS5 proxies  
+- 🗑️ **Auto Message Deletion** — Deletes sent messages after a configurable delay  
+- 🌐 **Multi-language Support** — Configurable message language  
+- 📕 **Error Logging** — Saves IDs of servers or channels where errors occurred  
 
 ---
 
 <details>
-   
-## 🛠️ Installation
+<summary><strong>🛠️ Installation</strong></summary>
 
 ### 📋 Requirements
-- **Node.js** `v22.11.0`
-- **npm** `v10.9.0`
+- **Node.js** `v22.11.0`  
+- **npm** `v10.9.0`  
 
 📦 Download: [Node.js & npm](https://t.me/KeoAirDropFreeNe/257/1462)
 
+---
+
 ### 📥 Steps
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MeoMunDep/Discord-Autobot.git
-   cd "dirscord-autobot"
+   cd "discord-autobot"
    ```
 
 2. **Install dependencies:**
+
    ```bash
    npm install
    ```
+
    ⚠️ If you see an *Execution Policy* error on Windows:
+
    ```bash
    Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
    ```
+
    Then rerun:
+
    ```bash
    npm install
    ```
@@ -52,49 +63,50 @@ This bot automates interactions on **Discord**, including sending messages, join
    Edit the `configs.json` file to suit your preferences.
 
 4. **Prepare input files:**
-   - 📄 `tokens.txt`: List of Discord tokens (one per line).
-   - 🆔 `channel_ids.txt`: List of channel IDs to send messages.
-   - 🌐 `proxies.txt`: List of proxies (optional).
-   - 🔗 `join_servers.txt`: Discord invite codes.
-   - 🚪 `leave_servers.txt`: Server IDs to leave.
-   - 📜 `messages.yaml`: Messages in multiple languages.
-   - 🗂️ `error_channels.json`: Store error channels and servers ID.
+
+   * 📄 `tokens.txt` — Discord tokens (one per line)
+   * 🆔 `channel_ids.txt` — Channel IDs to send messages
+   * 🌐 `proxies.txt` — Proxies (optional)
+   * 🔗 `join_servers.txt` — Discord invite codes
+   * 🚪 `leave_servers.txt` — Server IDs to leave
+   * 📜 `messages.yaml` — Messages (multi-language)
+   * 🗂️ `error_channels.json` — Stores failed channels/servers
 
 📌 Helpful links:
-- 🔑 Get tokens: [Here](https://t.me/KeoAirDropFreeNee/1570)
-- 💬 Get chat ID: [Here](https://t.me/KeoAirDropFreeNee/1569)
-- 📡 Get channel/server ID: [Here](https://t.me/KeoAirDropFreeNee/1676)
-  
+
+* 🔑 Get tokens: [Here](https://t.me/KeoAirDropFreeNee/1570)
+* 💬 Get chat ID: [Here](https://t.me/KeoAirDropFreeNee/1569)
+* 📡 Get channel/server ID: [Here](https://t.me/KeoAirDropFreeNee/1676)
+
 </details>
 
 ---
 
 <details>
+<summary><strong>⚙️ Configuration (`configs.json`)</strong></summary>
 
-## ⚙️ Configuration (`configs.json`)
+| ⚙️ Setting                 | 📘 Description                                            |
+| -------------------------- | --------------------------------------------------------- |
+| `maxAccountsAtOnce`        | Number of accounts to run at once                         |
+| `delayBetweenAccounts`     | Delay (in seconds) between each account start             |
+| `delayEachChannel`         | Delay (in seconds) between messages in different channels |
+| `delayEachChat`            | Delay (in seconds) between messages in different chats    |
+| `timeToRestartAllAccounts` | Time (in seconds) to restart all accounts                 |
+| `chat_language`            | Language used for auto-generated messages                 |
+| `auto_chat`                | Enable/disable automatic chatting                         |
+| `join_server`              | Enable/disable auto server joining                        |
+| `leave_server`             | Enable/disable auto server leaving                        |
+| `delete_message`           | Enable/disable message deletion after sending             |
+| `enable_replies`           | Enable/disable message replies                            |
+| `enable_reactions`         | Enable/disable reactions                                  |
+| `reaction_chance`          | Probability (0–1) of reacting to a message                |
+| `enable_ai_replies`        | Enable/disable AI-generated replies                       |
+| `ai_providers.*`           | API keys for AI providers (Groq, Gemini, Poe, OpenRouter) |
 
-| ⚙️ Setting                  | 📘 Description                                                                 |
-|----------------------------|---------------------------------------------------------------------------------|
-| `maxAccountsAtOnce`        | Number of accounts to run at the same time                                      |
-| `delayBetweenAccounts`     | Delay (in seconds) between starting each account                                |
-| `delayEachChannel`         | Delay (in seconds) between messages in different channels              |
-| `delayEachChat`            | Delay (in seconds) between messages in different chats                 |
-| `timeToRestartAllAccounts` | Time (in seconds) to restart all accounts and begin again                       |
-| `chat_language`            | Language used for auto-generated messages                                       |
-| `auto_chat`                | Enable/disable automatic chatting                                               |
-| `join_server`              | Enable/disable auto joining of servers                                          |
-| `leave_server`             | Enable/disable auto leaving of servers                                          |
-| `delete_message`           | Enable/disable message deletion after sending                                   |
-| `enable_replies`           | Enable/disable bot replies to other messages                                    |
-| `enable_reactions`         | Enable/disable message reactions                                                |
-| `reaction_chance`          | Probability (0 to 1) that a message will receive a reaction                     |
-| `enable_ai_replies`        | Enable/disable AI-generated replies                                             |
-| `ai_providers.groq`        | API key for Groq AI provider (if used)                                          |
-| `ai_providers.openrouter`  | ...                                                                             |
-| `ai_providers.gemini`      | ...                                                                             |
-| `ai_providers.poe`      | ...                                                                                |
+---
 
-🧾 Example `configs.json`:
+### 🧾 Example `configs.json`
+
 ```json
 {
   "maxAccountsAtOnce": 1,
@@ -114,7 +126,7 @@ This bot automates interactions on **Discord**, including sending messages, join
   "enable_reactions": true,
   "enable_ai_replies": true,
 
-   "ai_providers": {
+  "ai_providers": {
     "poe": [""],
     "groq": [""],
     "gemini": [""],
@@ -125,81 +137,118 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 ---
 
-[GROQ_API_KEY Link](https://console.groq.com/keys)
-![GROQ_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/GROQ_API_KEY.png?raw=true)
+<details>
+<summary><strong>🔑 GROQ API Key</strong></summary>
 
----
+[Create Key](https://console.groq.com/keys)
 
-[GEMINI_API_KEY Link](https://aistudio.google.com/app/apikey)
-![GEMINI_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/GEMINI_API_KEY.png?raw=true)
+<p align="center">
+  <img src="https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/GROQ_API_KEY.png?raw=true" width="600" />
+</p>
 
----
+</details>
 
-[OPENROUTER_API_KEY Link](https://openrouter.ai/settings/keys)
-![OPENROUTER_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/OPENROUTER_API_KEY.png?raw=true)
+<details>
+<summary><strong>🔑 GEMINI API Key</strong></summary>
 
----
+[Create Key](https://aistudio.google.com/app/apikey)
 
-[POE_API_KEY Link](https://poe.com/api_key)
-![POE_API_KEY](https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/POE_API_KEY.png?raw=true)
+<p align="center">
+  <img src="https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/GEMINI_API_KEY.png?raw=true" width="600" />
+</p>
+
+</details>
+
+<details>
+<summary><strong>🔑 OPENROUTER API Key</strong></summary>
+
+[Create Key](https://openrouter.ai/settings/keys)
+
+<p align="center">
+  <img src="https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/OPENROUTER_API_KEY.png?raw=true" width="600" />
+</p>
+
+</details>
+
+<details>
+<summary><strong>🔑 POE API Key</strong></summary>
+
+[Create Key](https://poe.com/api_key)
+
+<p align="center">
+  <img src="https://github.com/MeoMunDep/Discord-Autobot/blob/main/IMAGE/POE_API_KEY.png?raw=true" width="600" />
+</p>
+
+</details>
 
 </details>
 
 ---
 
 <details>
+<summary><strong>▶️ Usage</strong></summary>
 
-## ▶️ Usage
+### 📌 Run the bot
 
-📌 Run the bot:
 ```bash
 node index_meomundep.js
 ```
 
-⬆️ Update the bot:
+### ⬆️ Update the bot
+
 ```bash
 git pull
 ```
 
 ---
 
-## 🔍 How It Works
-- Reads settings from `configs.json` and input files.
-- Logs into multiple Discord accounts using provided tokens.
-- Applies proxy settings per account (if configured).
-- Executes tasks such as:
-  - Sending messages
-  - Joining servers
-  - Leaving servers
-- Logs every event with timestamps.
-- Loops continuously with delays between cycles.
+### 🔍 How It Works
+
+* Reads configuration from `configs.json`
+* Logs in using provided tokens
+* Applies proxy per account (if available)
+* Executes tasks:
+
+  * Sending messages
+  * Joining servers
+  * Leaving servers
+* Logs every event with timestamps
+* Repeats automatically with defined delays
 
 ---
 
-## 📝 Logs and Timestamps
-- Each log entry includes a timestamp.
-- Timestamp format matches the selected `language` setting.
+### 📝 Logs and Timestamps
+
+* Each log entry includes a timestamp
+* Timestamp format follows `chat_language` setting
 
 ---
 
-## ⚠️ Notes
-- Ensure all tokens are valid and have required permissions.
-- Use proxies to avoid rate limits or bans.
-- If using many accounts, you may need to optimize delay settings.
+### ⚠️ Notes
+
+* Ensure all tokens are valid and have required permissions
+* Use proxies to avoid rate limits or bans
+* Tune delay settings for larger account sets
 
 </details>
 
 ---
 
 ## 📞 Contact & Support
-- 🛒 **Support me via these links**: [Link 1](https://t.me/KeoAirDropFreeNe/312/27801) | [Link 2](https://github.com/MeoMunDep/MeoMunDep)
-- 💬 **Contact Me**: [@MeoMunDep](https://t.me/MeoMunDep)
-- 👥 **Group**: [Join Group](https://t.me/KeoAirDropFreeNe)
-- 📢 **Channel**: [Visit Channel](https://t.me/KeoAirDropFreeNee)
+
+* 🛒 **Support Me:** [Link 1](https://t.me/KeoAirDropFreeNe/312/27801) • [Link 2](https://github.com/MeoMunDep/MeoMunDep)
+* 💬 **Contact:** [@MeoMunDep](https://t.me/MeoMunDep)
+* 👥 **Group:** [Join Group](https://t.me/KeoAirDropFreeNe)
+* 📢 **Channel:** [Visit Channel](https://t.me/KeoAirDropFreeNee)
 
 ---
 
 ## 📜 License
-❗ **Do not steal or copy this project.**  
-💀 Use it at your own risk.  
-🚫 Don’t DM me with silly questions.
+
+❗ **Do not steal or copy this project.**
+💀 **Use it at your own risk.**
+🚫 **Don’t DM me with silly questions.**
+
+---
+
+<p align="center"><a href="#-discord-automation-bot-by-meomundep">⬆️ Back to top</a></p>
