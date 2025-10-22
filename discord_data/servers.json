@@ -5,8 +5,12 @@
     "invite_id": "altiuslabs",
     "channels": {
       "raw_chat": {
-        "1338161270763032621": "__random_message",
-        "1338161352316948582": "gm"
+        "raw_chat": {
+          "1338161270763032621": "__random_message",
+          "1338161352316948582": "gm"
+        },
+        "command_chat": {},
+        "image_chat": {}
       },
       "command_chat": {},
       "image_chat": {}
@@ -17,9 +21,13 @@
     "guild_id": "929539044742938634",
     "invite_id": null,
     "channels": {
-      "929539047716687945": "general",
-      "1207768224570286202": "bm-bn",
-      "1316413119266033704": "!rank"
+      "raw_chat": {
+        "929539047716687945": "__random_message",
+        "1207768224570286202": "bm-bn",
+        "1316413119266033704": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -27,8 +35,12 @@
     "guild_id": "1415521795125022801",
     "invite_id": "tradeonboba",
     "channels": {
-      "1415521796081319979": "general",
-      "1415521796081319978": "gm"
+      "raw_chat": {
+        "1415521796081319979": "__random_message",
+        "1415521796081319978": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -36,8 +48,12 @@
     "guild_id": "1366770072940576939",
     "invite_id": "bMc3mNbZbR",
     "channels": {
-      "1368120841312669703": "general",
-      "1368122147477655552": "gd1ck"
+      "raw_chat": {
+        "1368120841312669703": "__random_message",
+        "1368122147477655552": "gd1ck"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -45,8 +61,12 @@
     "guild_id": "1245615396254650378",
     "invite_id": "QTRkjKdZ6A",
     "channels": {
-      "1245615396254650381": "general",
-      "1306263938463436813": "gm-gn"
+      "raw_chat": {
+        "1245615396254650381": "__random_message",
+        "1306263938463436813": "gm-gn"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -54,7 +74,11 @@
     "guild_id": "1324007859637194844",
     "invite_id": "dnDNRrUGNm",
     "channels": {
-      "1324007860140773478": "general"
+      "raw_chat": {
+        "1324007860140773478": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -62,28 +86,31 @@
     "guild_id": "1408098695064588288",
     "invite_id": "RN93k9UWbP",
     "channels": {
-      "1408098696314355815": "general"
+      "raw_chat": {
+        "1408098696314355815": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
     "name": "Dats",
     "guild_id": "928611824918736996",
     "invite_id": null,
-    "channels": {}
+    "channels": {
+      "raw_chat": {},
+      "command_chat": {},
+      "image_chat": {}
+    }
   },
   {
     "name": "Decent DAO",
     "guild_id": "839548879216181309",
     "invite_id": null,
-    "channels": {}
-  },
-  {
-    "name": "Deriw",
-    "guild_id": "1197128320299565166",
-    "invite_id": "deriwfinance",
     "channels": {
-      "1197128320299565169": "general",
-      "1253576696301490198": "gm"
+      "raw_chat": {},
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -91,8 +118,12 @@
     "guild_id": "1146856811207606283",
     "invite_id": "doma",
     "channels": {
-      "1147172686632583269": "general",
-      "1377276310576959559": "gm"
+      "raw_chat": {
+        "1147172686632583269": "__random_message",
+        "1377276310576959559": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -100,8 +131,12 @@
     "guild_id": "1366732076287791205",
     "invite_id": "ydxgrVnbwB",
     "channels": {
-      "1366732078296862881": "general",
-      "1366732078296862882": "gm-gn"
+      "raw_chat": {
+        "1366732078296862881": "__random_message",
+        "1366732078296862882": "gm-gn"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -109,8 +144,12 @@
     "guild_id": "1220803043105443981",
     "invite_id": "rNf4HKbWv6",
     "channels": {
-      "1250872069487460534": "general",
-      "1374381748523372574": "gm-gn"
+      "raw_chat": {
+        "1250872069487460534": "__random_message",
+        "1374381748523372574": "gm-gn"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -118,8 +157,12 @@
     "guild_id": "483968379833679873",
     "invite_id": "EFHYR6nZrD",
     "channels": {
-      "483968379833679877": "general",
-      "946007217407148062": "gm"
+      "raw_chat": {
+        "483968379833679877": "__random_message",
+        "946007217407148062": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -127,8 +170,12 @@
     "guild_id": "1273697728014188664",
     "invite_id": null,
     "channels": {
-      "1273697728542675048": "general",
-      "1273697728542675053": "gaibm"
+      "raw_chat": {
+        "1273697728542675048": "__random_message",
+        "1273697728542675053": "gaibm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -136,9 +183,13 @@
     "guild_id": "1264832793536630816",
     "invite_id": "aigaea",
     "channels": {
-      "1265194052572414036": "general",
-      "1281109757310275755": "gm",
-      "1303533168825077843": "!rank"
+      "raw_chat": {
+        "1265194052572414036": "__random_message",
+        "1281109757310275755": "gm",
+        "1303533168825077843": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -146,20 +197,13 @@
     "guild_id": "1215232680942374912",
     "invite_id": "gaianet-ai",
     "channels": {
-      "1215253012939808810": "general",
-      "1215253072499052624": "!rank",
-      "1215256291165872128": "gm-gn"
-    }
-  },
-  {
-    "name": "GG3",
-    "guild_id": "1169625335755702282",
-    "invite_id": "jNDnrFnR",
-    "channels": {
-      "1171509980545941595": "general",
-      "1254799466750541844": "brazil-chat",
-      "1358733185818820618": "crypto-talk",
-      "1364641668648927325": "newbie-chat"
+      "raw_chat": {
+        "1215253012939808810": "__random_message",
+        "1215253072499052624": "!rank",
+        "1215256291165872128": "gm-gn"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -167,9 +211,13 @@
     "guild_id": "848996376896602163",
     "invite_id": null,
     "channels": {
-      "906256283068403732": "general",
-      "955422634403844157": "gm-gn",
-      "1217114388373311640": "goai"
+      "raw_chat": {
+        "906256283068403732": "__random_message",
+        "955422634403844157": "gm-gn",
+        "1217114388373311640": "goai"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -177,7 +225,11 @@
     "guild_id": "1369791841020674168",
     "invite_id": "iopn",
     "channels": {
-      "1369794163851264020": "general"
+      "raw_chat": {
+        "1369794163851264020": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -185,30 +237,13 @@
     "guild_id": "1230201205020430397",
     "invite_id": "ARA5PvyWU7",
     "channels": {
-      "1230213097730347071": "general",
-      "1260190285204557824": "jm-jn",
-      "1264453281283969036": "/rank"
-    }
-  },
-  {
-    "name": "JRNY Earn",
-    "guild_id": "901505743314903081",
-    "invite_id": "jnryclub",
-    "channels": {
-      "1359962921161199907": "general",
-      "1369063388440957008": "/rank"
-    }
-  },
-  {
-    "name": "Kadena",
-    "guild_id": "502858632178958377",
-    "invite_id": "NZcBb2aBQ6",
-    "channels": {
-      "502858632178958380": "general",
-      "641021540393025651": "Technical chat",
-      "1220399868452012125": "ama",
-      "1336691531159048222": "HR chat",
-      "1372148674683076658": "gm-gn"
+      "raw_chat": {
+        "1230213097730347071": "__random_message",
+        "1260190285204557824": "jm-jn",
+        "1264453281283969036": "/rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -216,10 +251,14 @@
     "guild_id": "1298000367283601428",
     "invite_id": null,
     "channels": {
-      "1298000367283601428": "general",
-      "1301941112021188628": "gkite",
-      "1337332808200224789": "!rank",
-      "1361243582094250124": "gg"
+      "raw_chat": {
+        "1298000367283601428": "__random_message",
+        "1301941112021188628": "gkite",
+        "1337332808200224789": "!rank",
+        "1361243582094250124": "gg"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -227,10 +266,14 @@
     "guild_id": "946158234866159698",
     "invite_id": "KegQHYvMmw",
     "channels": {
-      "959531869693681685": "general",
-      "1260538908089913384": "!rank",
-      "1260539361892630589": "gm",
-      "1334585829435379722": "king"
+      "raw_chat": {
+        "959531869693681685": "__random_message",
+        "1260538908089913384": "!rank",
+        "1260539361892630589": "gm",
+        "1334585829435379722": "king"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -238,9 +281,13 @@
     "guild_id": "1208823608668070018",
     "invite_id": null,
     "channels": {
-      "1208823608668070018": "general",
-      "1274109329250717876": "km-kn",
-      "1316513605746692286": "!rank"
+      "raw_chat": {
+        "1208823608668070018": "__random_message",
+        "1274109329250717876": "km",
+        "1316513605746692286": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -248,8 +295,12 @@
     "guild_id": "943797222162726962",
     "invite_id": null,
     "channels": {
-      "1094710494880866454": "general",
-      "1021340411022819328": "gmagic"
+      "raw_chat": {
+        "1094710494880866454": "__random_message",
+        "1021340411022819328": "gmagic"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -257,8 +308,12 @@
     "guild_id": "1281245519191998475",
     "invite_id": "gxT4N6TsnY",
     "channels": {
-      "1281245521775951915": "general",
-      "1281245521775951914": "gm-gn"
+      "raw_chat": {
+        "1281245521775951915": "__random_message",
+        "1281245521775951914": "gm-gn"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -266,10 +321,14 @@
     "guild_id": "1275882423095398487",
     "invite_id": "mawari",
     "channels": {
-      "1275882423619551309": "general",
-      "1275882423619551312": "gm",
-      "1275882423619551310": "!rank",
-      "1346177614674530406": "off-topic"
+      "raw_chat": {
+        "1275882423619551309": "__random_message",
+        "1275882423619551312": "gm",
+        "1275882423619551310": "!rank",
+        "1346177614674530406": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -277,8 +336,12 @@
     "guild_id": "966739027782955068",
     "invite_id": "4H64dBNE",
     "channels": {
-      "966739028256907368": "general",
-      "1428444035550417039": "gm-gn"
+      "raw_chat": {
+        "966739028256907368": "__random_message",
+        "1428444035550417039": "gm-gn"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -286,9 +349,13 @@
     "guild_id": "1400787114333044887",
     "invite_id": null,
     "channels": {
-      "1400848157436280943": "general",
-      "1400848194287439973": "gm-gn",
-      "1410190513524441120": "!rank"
+      "raw_chat": {
+        "1400848157436280943": "__random_message",
+        "1400848194287439973": "gm-gn",
+        "1410190513524441120": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -296,8 +363,12 @@
     "guild_id": "1340811383654318201",
     "invite_id": null,
     "channels": {
-      "1341725898680045599": "general",
-      "1356628424504119366": "gscore-gmonad"
+      "raw_chat": {
+        "1341725898680045599": "__random_message",
+        "1356628424504119366": "gscore"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -305,9 +376,13 @@
     "guild_id": "1341847161003970570",
     "invite_id": null,
     "channels": {
-      "1341852911784820766": "general",
-      "1341853232116273283": "gm-gn",
-      "1341997045862502420": "!rank"
+      "raw_chat": {
+        "1341852911784820766": "__random_message",
+        "1341853232116273283": "gm-gn",
+        "1341997045862502420": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -315,8 +390,12 @@
     "guild_id": "1038740318255841280",
     "invite_id": "octra",
     "channels": {
-      "1038740318729818212": "general",
-      "1286862060394778739": "gm"
+      "raw_chat": {
+        "1038740318729818212": "__random_message",
+        "1286862060394778739": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -324,9 +403,13 @@
     "guild_id": "1132794141403791483",
     "invite_id": null,
     "channels": {
-      "1137965713143894137": "general",
-      "1313064716821856278": "!rank",
-      "1387834964745388052": "gquant"
+      "raw_chat": {
+        "1137965713143894137": "__random_message",
+        "1313064716821856278": "!rank",
+        "1387834964745388052": "gquant"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -334,9 +417,13 @@
     "guild_id": "1110195999101689927",
     "invite_id": null,
     "channels": {
-      "1110195999638552730": "general",
-      "1344752947963236422": "!rank",
-      "1344753252255662151": "gm"
+      "raw_chat": {
+        "1110195999638552730": "__random_message",
+        "1344752947963236422": "!rank",
+        "1344753252255662151": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -344,9 +431,13 @@
     "guild_id": "1268505675844292669",
     "invite_id": "uk5KCRujuP",
     "channels": {
-      "1275804539399831600": "general",
-      "1360016346217320508": "gm",
-      "1372869321558200340": "!rank"
+      "raw_chat": {
+        "1275804539399831600": "__random_message",
+        "1360016346217320508": "gm",
+        "1372869321558200340": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -354,8 +445,12 @@
     "guild_id": "1375122328421269564",
     "invite_id": "NdBJBZMz4e",
     "channels": {
-      "1375135533801406597": "general",
-      "1409867858581917707": "gm"
+      "raw_chat": {
+        "1375135533801406597": "__random_message",
+        "1409867858581917707": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -363,9 +458,13 @@
     "guild_id": "1229940893642129438",
     "invite_id": "pinai",
     "channels": {
-      "1359998147065286776": "general",
-      "1360124010762866829": "gpin",
-      "1364620323219181829": "halo"
+      "raw_chat": {
+        "1359998147065286776": "__random_message",
+        "1360124010762866829": "gpin",
+        "1364620323219181829": "halo"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -373,8 +472,12 @@
     "guild_id": "1125704047085760595",
     "invite_id": null,
     "channels": {
-      "1282630694576717885": "general",
-      "1257875620365471830": "gm"
+      "raw_chat": {
+        "1282630694576717885": "__random_message",
+        "1257875620365471830": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -382,7 +485,11 @@
     "guild_id": "1370919648090132651",
     "invite_id": "PsyProtocol",
     "channels": {
-      "1371373665215578132": "general"
+      "raw_chat": {
+        "1371373665215578132": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -390,9 +497,13 @@
     "guild_id": "1203304895143223316",
     "invite_id": "6BQsQC8p2u",
     "channels": {
-      "1203304898695921686": "general",
-      "1414216169287716875": "gm",
-      "1423055283390775347": "!rank"
+      "raw_chat": {
+        "1203304898695921686": "__random_message",
+        "1414216169287716875": "gm",
+        "1423055283390775347": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -400,7 +511,11 @@
     "guild_id": "1343751435711414362",
     "invite_id": "seismic",
     "channels": {
-      "1343751437087150113": "general"
+      "raw_chat": {
+        "1343751437087150113": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -408,8 +523,12 @@
     "guild_id": "1187372655096102992",
     "invite_id": null,
     "channels": {
-      "1187372655607816345": "general",
-      "1213247980849864744": "gm-gn"
+      "raw_chat": {
+        "1187372655607816345": "__random_message",
+        "1213247980849864744": "gm-gn"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -417,8 +536,12 @@
     "guild_id": "1283764423437320295",
     "invite_id": "qVEUA6jmGZ",
     "channels": {
-      "1283764423974064159": "general",
-      "1283788061661986919": "gm"
+      "raw_chat": {
+        "1283764423974064159": "__random_message",
+        "1283788061661986919": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -426,24 +549,36 @@
     "guild_id": "1119245135620878388",
     "invite_id": null,
     "channels": {
-      "1119245136224854079": "general",
-      "1263530192886829056": "gtm",
-      "1275499046210895984": "!rank"
+      "raw_chat": {
+        "1119245136224854079": "__random_message",
+        "1263530192886829056": "gtm",
+        "1275499046210895984": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
     "name": "TradeVALA",
     "guild_id": "846726276329111592",
     "invite_id": null,
-    "channels": {}
+    "channels": {
+      "raw_chat": {},
+      "command_chat": {},
+      "image_chat": {}
+    }
   },
   {
     "name": "Valhalla",
     "guild_id": "1318047355169275934",
     "invite_id": null,
     "channels": {
-      "1318036319779164191": "general",
-      "1318047355169275934": "gm"
+      "raw_chat": {
+        "1318036319779164191": "__random_message",
+        "1318047355169275934": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -451,9 +586,13 @@
     "guild_id": "1346258822733365278",
     "invite_id": "G3rvmPmztp",
     "channels": {
-      "1346258823354126338": "general",
-      "1347919432885866577": "gvram",
-      "1358270169067032586": "!rank"
+      "raw_chat": {
+        "1346258823354126338": "__random_message",
+        "1347919432885866577": "gvram",
+        "1358270169067032586": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   },
   {
@@ -461,10 +600,14 @@
     "guild_id": "915500218961768479",
     "invite_id": null,
     "channels": {
-      "915500218961768483": "main-chat",
-      "1328419797599387788": "!rank",
-      "1336077489411194932": "gm-gn",
-      "1336092237922177125": "suggestion"
+      "raw_chat": {
+        "915500218961768483": "__random_message",
+        "1328419797599387788": "!rank",
+        "1336077489411194932": "gm-gn",
+        "1336092237922177125": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
     }
   }
 ]
