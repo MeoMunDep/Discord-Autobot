@@ -147,6 +147,8 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 ---
 
+<details>
+
 ## ▶️ Usage
 
 📌 Run the bot:
@@ -184,6 +186,8 @@ git pull
 - Ensure all tokens are valid and have required permissions.
 - Use proxies to avoid rate limits or bans.
 - If using many accounts, you may need to optimize delay settings.
+
+</details>
 
 ---
 
