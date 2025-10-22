@@ -249,8 +249,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<details>
-
 <summary><strong>IOPn</strong> — Guild ID: <code>1369791841020674168</code></summary>
 
 - **Invite ID**: `iopn`
