@@ -261,18 +261,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Kadena</strong> — Guild ID: <code>502858632178958377</code></summary>
-
-- **Invite ID**: `NZcBb2aBQ6`
-- **Channels**:
-  - `502858632178958380`: `general`
-  - `641021540393025651`: `Technical chat`
-  - `1220399868452012125`: `ama`
-  - `1336691531159048222`: `HR chat`
-  - `1372148674683076658`: `gm-gn`
-
-</details>
-
 <details>
 
 <summary><strong>KiteAI</strong> — Guild ID: <code>1298000367283601428</code></summary>
