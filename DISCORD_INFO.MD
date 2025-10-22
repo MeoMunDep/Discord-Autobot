@@ -509,17 +509,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>QRusader</strong> — Guild ID: <code>1361522453582708829</code></summary>
-
-- **Invite ID**: `znyWJjnak5`
-- **Channels**:
-  - `1361522454295613616`: `general`
-  - `1367539421997568030`: `qrise`
-
-</details>
-
-<details>
-
 <summary><strong>Rhuna</strong> — Guild ID: <code>1203304895143223316</code></summary>
 
 - **Invite ID**: `6BQsQC8p2u`
