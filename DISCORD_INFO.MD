@@ -429,18 +429,6 @@ Below is the sorted list of guilds from A to Z based on their names, maintaining
 
 <details>
 
-<summary><strong>Oro</strong> — Guild ID: <code>1349045850331938826</code></summary>
-
-- **Invite ID**: `joinoro`
-- **Channels**:
-  - `1351488160206426227`: `general`
-  - `1351487907042431027`: `gmoro`
-  - `1351492950768619552`: `!rank`
-
-</details>
-
-<details>
-
 <summary><strong>Part Of Dreams</strong> — Guild ID: <code>1110195999101689927</code></summary>
 
 - **Invite ID**: **None**
