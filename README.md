@@ -83,7 +83,7 @@ This bot automates interactions on **Discord**, including sending messages, join
 ---
 
 <details>
-<summary><strong>⚙️ Configuration (`configs.json`)</strong></summary>
+<summary><strong>⚙️ Configuration (configs.json)</strong></summary>
 
 | ⚙️ Setting                 | 📘 Description                                            |
 | -------------------------- | --------------------------------------------------------- |
