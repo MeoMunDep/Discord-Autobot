@@ -18,6 +18,8 @@ This bot automates interactions on **Discord**, including sending messages, join
 
 ---
 
+<details>
+   
 ## 🛠️ Installation
 
 ### 📋 Requirements
@@ -62,6 +64,8 @@ This bot automates interactions on **Discord**, including sending messages, join
 - 🔑 Get tokens: [Here](https://t.me/KeoAirDropFreeNee/1570)
 - 💬 Get chat ID: [Here](https://t.me/KeoAirDropFreeNee/1569)
 - 📡 Get channel/server ID: [Here](https://t.me/KeoAirDropFreeNee/1676)
+  
+</details>
 
 ---
 
