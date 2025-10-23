@@ -4,7 +4,7 @@
     "js-yaml": "^4.1.0",
     "meo-forkcy-utils": "^1.0.3",
     "meo-forkcy-colors": "^1.0.9",
-    "meo-forkcy-logger": "^1.0.0",
+    "meo-forkcy-logger": "^1.0.7",
     "meo-forkcy-proxy": "^1.0.1",
   }
 }
