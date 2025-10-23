@@ -21,6 +21,10 @@
     "groq": [""],
     "gemini": [""],
     "openrouter": [""]
+  },
+
+  "image_generation_providers": {
+    "freepik": [""]
   }
 }
 
