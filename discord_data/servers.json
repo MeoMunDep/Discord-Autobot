@@ -10,10 +10,10 @@
           "1338161352316948582": "gm"
         },
         "command_chat": {},
-        "image_chat": {}
-      },
-      "command_chat": {},
-      "image_chat": {}
+        "image_chat": {
+          "1345028182851719188": "Airdrop project with 'Altius Lab'"
+        }
+      }
     }
   },
   {
@@ -23,11 +23,11 @@
     "channels": {
       "raw_chat": {
         "929539047716687945": "__random_message",
-        "1207768224570286202": "bm-bn",
+        "1207768224570286202": "bm",
         "1316413119266033704": "!rank"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": { "1306590774196179004": "Airdrop project with 'Bless'" }
     }
   },
   {
@@ -136,7 +136,10 @@
         "1366732078296862882": "gm-gn"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": {
+        "1366732078778945578": "Airdrop project with 'Donut Browser'",
+        "1366732078778945577": "Airdrop project with 'Donut Browser'"
+      }
     }
   },
   {
@@ -175,7 +178,7 @@
         "1273697728542675053": "gaibm"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": { "1293883494036013088": "Airdrop project with 'GAIB'" }
     }
   },
   {
@@ -189,7 +192,7 @@
         "1303533168825077843": "!rank"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": { "1303200345224249374": "Airdrop project with 'GAEA'" }
     }
   },
   {
@@ -214,7 +217,8 @@
       "raw_chat": {
         "906256283068403732": "__random_message",
         "955422634403844157": "gm-gn",
-        "1217114388373311640": "goai"
+        "1217114388373311640": "goai",
+        "1238397914880147506": "staking"
       },
       "command_chat": {},
       "image_chat": {}
@@ -258,7 +262,7 @@
         "1361243582094250124": "gg"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": { "1301948037924388894": "Airdrop project with 'KiteAI'" }
     }
   },
   {
@@ -268,6 +272,7 @@
     "channels": {
       "raw_chat": {
         "959531869693681685": "__random_message",
+        "1260539750876581939": "__random_message",
         "1260538908089913384": "!rank",
         "1260539361892630589": "gm",
         "1334585829435379722": "king"
@@ -287,7 +292,7 @@
         "1316513605746692286": "!rank"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": { "1274110031700164628": "airdrop project with 'KRNL'" }
     }
   },
   {
@@ -368,7 +373,9 @@
         "1356628424504119366": "gscore"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": {
+        "1363937829406900435": "Airdrop project with 'Monad Score'"
+      }
     }
   },
   {
@@ -395,7 +402,9 @@
         "1286862060394778739": "gm"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": {
+        "1221114931429249136": "Airdrop project with 'OCTRA labs'"
+      }
     }
   },
   {
@@ -405,11 +414,16 @@
     "channels": {
       "raw_chat": {
         "1137965713143894137": "__random_message",
+        "1387829867994808440": "__random_message",
+        "1387831504259780618": "__random_message",
         "1313064716821856278": "!rank",
-        "1387834964745388052": "gquant"
+        "1387834964745388052": "gquant",
+        "1351976188247281695": "!lb"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": {
+        "1305476727023075411": " Airdrop project with 'OpenGradient'"
+      }
     }
   },
   {
@@ -450,7 +464,9 @@
         "1409867858581917707": "gm"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": {
+        "1375131553344127126": "Airdrop project with 'Pi Squared'"
+      }
     }
   },
   {
@@ -489,7 +505,10 @@
         "1371373665215578132": "__random_message"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": {
+        "1371373755548434442": "Airdrop project with 'Psychonaut'",
+        "1371373907482775586": "Airdrop project with 'Psychonaut'"
+      }
     }
   },
   {
@@ -503,7 +522,7 @@
         "1423055283390775347": "!rank"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": { "1218530010328076379": "airdrop project with 'RHUNA'" }
     }
   },
   {
@@ -607,7 +626,7 @@
         "1336092237922177125": "__random_message"
       },
       "command_chat": {},
-      "image_chat": {}
+      "image_chat": { "1336077578208935956": "Airdrop project with 'VS1'" }
     }
   }
 ]
