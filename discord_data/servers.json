@@ -1,20 +1,65 @@
 [
   {
+    "name": "Sixpence",
+    "guild_id": "1083442242569633844",
+    "invite_id": "JbQKR9rvcj",
+    "channels": {
+      "raw_chat": {
+        "1230053460481806346": "gm",
+        "1223187427607183402": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {
+        "1230053716049002566": "Generate for me Sixpence airdrop meme"
+      }
+    },
+    "enable": true
+  },
+  {
+    "name": "neftit",
+    "guild_id": "1369232763709947914",
+    "invite_id": "Xc54PrHv7w",
+    "channels": {
+      "raw_chat": {
+        "1373921587660722198": "gneft"
+      },
+      "command_chat": {},
+      "image_chat": {
+        "1369291841966702755": "Create meme about 'gneft' NFT EVM",
+        "1369291012035444806": "Create meme about 'gneft' NFT EVM"
+      }
+    },
+    "enable": true
+  },
+  {
+    "name": "Edgen",
+    "guild_id": "1218068356549054554",
+    "invite_id": "edgentech",
+    "channels": {
+      "raw_chat": {
+        "1353679089868869662": "__random_message",
+        "1372482654586535996": "!rank"
+      },
+      "command_chat": {},
+      "image_chat": {}
+    },
+    "enable": true
+  },
+  {
     "name": "Altius Lab",
     "guild_id": "1332142278935838783",
     "invite_id": "altiuslabs",
     "channels": {
       "raw_chat": {
-        "raw_chat": {
-          "1338161270763032621": "__random_message",
-          "1338161352316948582": "gm"
-        },
-        "command_chat": {},
-        "image_chat": {
-          "1345028182851719188": "Airdrop project with 'Altius Lab'"
-        }
+        "1338161270763032621": "__random_message",
+        "1338161352316948582": "gm"
+      },
+      "command_chat": {},
+      "image_chat": {
+        "1345028182851719188": "Airdrop project with 'Altius Lab'"
       }
-    }
+    },
+    "enable": true
   },
   {
     "name": "Bless",
@@ -27,8 +72,11 @@
         "1316413119266033704": "!rank"
       },
       "command_chat": {},
-      "image_chat": { "1306590774196179004": "Airdrop project with 'Bless'" }
-    }
+      "image_chat": {
+        "1306590774196179004": "Airdrop project with 'Bless'"
+      }
+    },
+    "enable": true
   },
   {
     "name": "Boba",
@@ -41,7 +89,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Brevis",
@@ -54,7 +103,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Brevis",
@@ -63,11 +113,12 @@
     "channels": {
       "raw_chat": {
         "1245615396254650381": "__random_message",
-        "1306263938463436813": "gm-gn"
+        "1306263938463436813": "gm"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Bytenova",
@@ -79,7 +130,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Cerebro",
@@ -91,7 +143,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Dats",
@@ -101,7 +154,8 @@
       "raw_chat": {},
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Decent DAO",
@@ -111,7 +165,8 @@
       "raw_chat": {},
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Doma",
@@ -124,7 +179,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Donut Browser",
@@ -133,14 +189,15 @@
     "channels": {
       "raw_chat": {
         "1366732078296862881": "__random_message",
-        "1366732078296862882": "gm-gn"
+        "1366732078296862882": "gm"
       },
       "command_chat": {},
       "image_chat": {
         "1366732078778945578": "Airdrop project with 'Donut Browser'",
         "1366732078778945577": "Airdrop project with 'Donut Browser'"
       }
-    }
+    },
+    "enable": true
   },
   {
     "name": "Ducat",
@@ -149,11 +206,12 @@
     "channels": {
       "raw_chat": {
         "1250872069487460534": "__random_message",
-        "1374381748523372574": "gm-gn"
+        "1374381748523372574": "gm"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Fluence Network",
@@ -166,7 +224,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "GAIB",
@@ -178,8 +237,11 @@
         "1273697728542675053": "gaibm"
       },
       "command_chat": {},
-      "image_chat": { "1293883494036013088": "Airdrop project with 'GAIB'" }
-    }
+      "image_chat": {
+        "1293883494036013088": "Airdrop project with 'GAIB'"
+      }
+    },
+    "enable": true
   },
   {
     "name": "Gaea",
@@ -192,8 +254,11 @@
         "1303533168825077843": "!rank"
       },
       "command_chat": {},
-      "image_chat": { "1303200345224249374": "Airdrop project with 'GAEA'" }
-    }
+      "image_chat": {
+        "1303200345224249374": "Airdrop project with 'GAEA'"
+      }
+    },
+    "enable": true
   },
   {
     "name": "Gaia",
@@ -203,11 +268,12 @@
       "raw_chat": {
         "1215253012939808810": "__random_message",
         "1215253072499052624": "!rank",
-        "1215256291165872128": "gm-gn"
+        "1215256291165872128": "gm"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Gopher",
@@ -216,13 +282,17 @@
     "channels": {
       "raw_chat": {
         "906256283068403732": "__random_message",
-        "955422634403844157": "gm-gn",
+        "955422634403844157": "gm",
         "1217114388373311640": "goai",
+        "1247449212124401756": "miner",
+        "1049433598505267250": "gm developers",
+        "1423318305476710430": "gm traders",
         "1238397914880147506": "staking"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "IOPn",
@@ -234,7 +304,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Jiritsu",
@@ -243,12 +314,13 @@
     "channels": {
       "raw_chat": {
         "1230213097730347071": "__random_message",
-        "1260190285204557824": "jm-jn",
+        "1260190285204557824": "jm",
         "1264453281283969036": "/rank"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "KiteAI",
@@ -262,8 +334,11 @@
         "1361243582094250124": "gg"
       },
       "command_chat": {},
-      "image_chat": { "1301948037924388894": "Airdrop project with 'KiteAI'" }
-    }
+      "image_chat": {
+        "1301948037924388894": "Airdrop project with 'KiteAI'"
+      }
+    },
+    "enable": true
   },
   {
     "name": "KOR Protocol",
@@ -278,8 +353,11 @@
         "1334585829435379722": "king"
       },
       "command_chat": {},
-      "image_chat": {}
-    }
+      "image_chat": {
+        "1379769481601093702": "Generate for me a KOR airdrop meme"
+      }
+    },
+    "enable": true
   },
   {
     "name": "KRNL",
@@ -292,8 +370,11 @@
         "1316513605746692286": "!rank"
       },
       "command_chat": {},
-      "image_chat": { "1274110031700164628": "airdrop project with 'KRNL'" }
-    }
+      "image_chat": {
+        "1274110031700164628": "airdrop project with 'KRNL'"
+      }
+    },
+    "enable": true
   },
   {
     "name": "MagicBlock",
@@ -306,7 +387,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Magma Finance",
@@ -315,11 +397,12 @@
     "channels": {
       "raw_chat": {
         "1281245521775951915": "__random_message",
-        "1281245521775951914": "gm-gn"
+        "1281245521775951914": "gm"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Mawari",
@@ -334,7 +417,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Mento",
@@ -343,11 +427,12 @@
     "channels": {
       "raw_chat": {
         "966739028256907368": "__random_message",
-        "1428444035550417039": "gm-gn"
+        "1428444035550417039": "gm"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Mindo AI",
@@ -356,12 +441,13 @@
     "channels": {
       "raw_chat": {
         "1400848157436280943": "__random_message",
-        "1400848194287439973": "gm-gn",
+        "1400848194287439973": "gm",
         "1410190513524441120": "!rank"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Monad Score",
@@ -376,7 +462,8 @@
       "image_chat": {
         "1363937829406900435": "Airdrop project with 'Monad Score'"
       }
-    }
+    },
+    "enable": true
   },
   {
     "name": "MonAI",
@@ -385,12 +472,13 @@
     "channels": {
       "raw_chat": {
         "1341852911784820766": "__random_message",
-        "1341853232116273283": "gm-gn",
+        "1341853232116273283": "gm",
         "1341997045862502420": "!rank"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Octra",
@@ -405,7 +493,8 @@
       "image_chat": {
         "1221114931429249136": "Airdrop project with 'OCTRA labs'"
       }
-    }
+    },
+    "enable": true
   },
   {
     "name": "OpenGradient",
@@ -418,13 +507,15 @@
         "1387831504259780618": "__random_message",
         "1313064716821856278": "!rank",
         "1387834964745388052": "gquant",
-        "1351976188247281695": "!lb"
+        "1351976188247281695": "!lb",
+        "1419927256364744724": "claim"
       },
       "command_chat": {},
       "image_chat": {
         "1305476727023075411": " Airdrop project with 'OpenGradient'"
       }
-    }
+    },
+    "enable": true
   },
   {
     "name": "Part Of Dreams",
@@ -438,7 +529,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Perspective AI",
@@ -452,7 +544,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Pi Squared",
@@ -467,7 +560,8 @@
       "image_chat": {
         "1375131553344127126": "Airdrop project with 'Pi Squared'"
       }
-    }
+    },
+    "enable": true
   },
   {
     "name": "PinAI",
@@ -481,7 +575,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Primus Labs",
@@ -494,7 +589,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Psychonaut",
@@ -509,7 +605,8 @@
         "1371373755548434442": "Airdrop project with 'Psychonaut'",
         "1371373907482775586": "Airdrop project with 'Psychonaut'"
       }
-    }
+    },
+    "enable": true
   },
   {
     "name": "Rhuna",
@@ -522,8 +619,11 @@
         "1423055283390775347": "!rank"
       },
       "command_chat": {},
-      "image_chat": { "1218530010328076379": "airdrop project with 'RHUNA'" }
-    }
+      "image_chat": {
+        "1218530010328076379": "airdrop project with 'RHUNA'"
+      }
+    },
+    "enable": true
   },
   {
     "name": "Seismic",
@@ -535,7 +635,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "StoryChain",
@@ -544,11 +645,12 @@
     "channels": {
       "raw_chat": {
         "1187372655607816345": "__random_message",
-        "1213247980849864744": "gm-gn"
+        "1213247980849864744": "gm"
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "t1",
@@ -561,7 +663,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Theoriq",
@@ -575,7 +678,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "TradeVALA",
@@ -585,7 +689,8 @@
       "raw_chat": {},
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "Valhalla",
@@ -598,7 +703,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "VRAM",
@@ -612,7 +718,8 @@
       },
       "command_chat": {},
       "image_chat": {}
-    }
+    },
+    "enable": true
   },
   {
     "name": "VS1",
@@ -622,11 +729,14 @@
       "raw_chat": {
         "915500218961768483": "__random_message",
         "1328419797599387788": "!rank",
-        "1336077489411194932": "gm-gn",
+        "1336077489411194932": "gm",
         "1336092237922177125": "__random_message"
       },
       "command_chat": {},
-      "image_chat": { "1336077578208935956": "Airdrop project with 'VS1'" }
-    }
+      "image_chat": {
+        "1336077578208935956": "Airdrop project with 'VS1'"
+      }
+    },
+    "enable": true
   }
 ]
