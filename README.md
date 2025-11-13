@@ -230,23 +230,6 @@ If a category is empty, use an empty object `{}`.
 ```json
 [
   {
-    "name": "Altius Lab",
-    "guild_id": "1332142278935838783",
-    "invite_id": "altiuslabs",
-    "channels": {
-      "raw_chat": {
-        "1338161270763032621": "__random_message",
-        "1338161352316948582": "gm"
-      },
-      "command_chat": {
-        "123456789012345678": "/claim daily"
-      },
-      "image_chat": {
-        "1345028182851719188": "Airdrop project with 'Altius Lab'"
-      }
-    }
-  },
-  {
     "name": "Another Server",
     "guild_id": "987654321098765432",
     "invite_id": "anotherserverinvite",
