@@ -23,6 +23,7 @@ This bot automates interactions on **Discord**, including sending messages, join
 - 📕 **Error Logging** — Saves IDs of servers or channels where errors occurred
 - 🤖 **AI Replies** — Generate casual responses using AI providers (Groq, OpenRouter, Gemini, Poe)
 - 🖼️ **Image Generation** — Generate and send AI images to channels using Freepik API
+- 🎛️ **Server Control** — Enable/disable individual servers without deleting configuration
 
 ---
 
@@ -205,48 +206,260 @@ This bot automates interactions on **Discord**, including sending messages, join
 ---
 
 <details>
-<summary><strong>🗂️ servers.json Structure</strong></summary>
+<summary><strong>🗂️ servers.json Structure (DETAILED GUIDE)</strong></summary>
 
-The `servers.json` file defines the servers your bot will interact with. It should be an **array** of server objects. Each server object includes:
+The `servers.json` file is the **heart of your bot configuration**. It defines which servers to interact with and what actions to perform in each channel.
 
-- `name`: A friendly name for the server (for your reference).
-- `guild_id`: The Discord server (guild) ID. Used for leaving the server if `leave_server` is enabled.
-- `invite_id`: The invite code for joining the server (e.g., "altiuslabs"). Used if `join_server` is enabled. Set to "none" or "unknown" if you don't want to join.
-- `channels`: An object categorizing channels by type:
-  - `raw_chat`: For sending text messages.
-    - Key: Channel ID (string).
-    - Value: The message to send. Use `"__random_message"` for a random or AI-generated message, or a specific string like `"gm"`.
-  - `command_chat`: For sending commands (e.g., bot commands like "/claim").
-    - Key: Channel ID (string).
-    - Value: The command string to send.
-  - `image_chat`: For generating and sending AI images.
-    - Key: Channel ID (string).
-    - Value: The prompt for image generation (e.g., "Airdrop project with 'Altius Lab'").
+---
 
-If a category is empty, use an empty object `{}`.
+## 📚 Basic Structure
 
-### 🧾 Example `servers.json`
+The file should be a **JSON array** containing server objects. Each server represents a Discord server you want the bot to interact with.
 
 ```json
 [
   {
-    "name": "Another Server",
-    "guild_id": "987654321098765432",
-    "invite_id": "anotherserverinvite",
-    "channels": {
-      "raw_chat": {
-        "111222333444555666": "Hello world!"
-      },
-      "command_chat": {},
-      "image_chat": {}
-    }
+    "name": "Server Name",
+    "guild_id": "1234567890123456789",
+    "invite_id": "inviteCode",
+    "channels": { ... },
+    "enabled": true
   }
 ]
 ```
 
-- The bot will derive join/leave lists from this file automatically.
-- For image generation, ensure `image_generation_providers.freepik` is configured in `configs.json`.
-- Channels are processed per server when `auto_chat` is enabled.
+---
+
+## 🔑 Field Explanations
+
+### 1️⃣ **`name`** (String - Required)
+- **What it is:** A friendly name for the server (for your reference only)
+- **Example:** `"Curious"`, `"My Gaming Server"`, `"Crypto Community"`
+- **Purpose:** Helps you identify servers in logs and configuration
+
+### 2️⃣ **`guild_id`** (String - Required)
+- **What it is:** The Discord server's unique ID
+- **How to get it:** [Follow this guide](https://t.me/KeoAirDropFreeNee/1676)
+- **Example:** `"1417067849926705235"`
+- **Purpose:** Used for leaving servers when `leave_server: true` in configs
+
+### 3️⃣ **`invite_id`** (String - Required)
+- **What it is:** The invite code for joining the server
+- **Example:** `"altiuslabs"` (from discord.gg/altiuslabs)
+- **Special values:**
+  - `""` (empty string) - Don't join this server
+  - `"none"` - Don't join this server
+  - `"unknown"` - Don't join this server
+- **Purpose:** Used for joining servers when `join_server: true` in configs
+
+### 4️⃣ **`enabled`** (Boolean - Required)
+- **What it is:** Controls whether the bot processes this server
+- **Values:**
+  - `true` - Bot will process this server (send messages, join, etc.)
+  - `false` - Bot will skip this server completely
+- **Purpose:** Allows you to temporarily disable servers without deleting their configuration
+
+### 5️⃣ **`channels`** (Object - Required)
+This is where you define what the bot does in each channel. It has three categories:
+
+---
+
+## 🗨️ Channel Types
+
+### 📝 **`raw_chat`** - Text Messages
+
+Send regular text messages to channels.
+
+**Format:**
+```json
+"raw_chat": {
+  "CHANNEL_ID": "MESSAGE_TO_SEND"
+}
+```
+
+**Special Values:**
+- `"__random_message"` - Bot will use AI or random message from messages.yaml
+- Any specific text - Bot will send exactly this text (e.g., `"gm"`, `"Hello!"`)
+
+**Example:**
+```json
+"raw_chat": {
+  "1417068171243815002": "__random_message",
+  "1417084328504197250": "gm",
+  "9876543210987654321": "Hello everyone!"
+}
+```
+
+**What happens:**
+- In channel `1417068171243815002`: Bot sends AI-generated or random message
+- In channel `1417084328504197250`: Bot sends "gm"
+- In channel `9876543210987654321`: Bot sends "Hello everyone!"
+
+---
+
+### 🤖 **`command_chat`** - Bot Commands
+
+Send slash commands or bot commands to channels.
+
+**Format:**
+```json
+"command_chat": {
+  "CHANNEL_ID": "COMMAND_TO_EXECUTE"
+}
+```
+
+**Example:**
+```json
+"command_chat": {
+  "1234567890123456789": "/claim daily",
+  "9876543210987654321": "/rewards"
+}
+```
+
+**What happens:**
+- In channel `1234567890123456789`: Bot executes `/claim daily` command
+- In channel `9876543210987654321`: Bot executes `/rewards` command
+
+**Note:** This feature requires the bot to be configured for the specific bot's command structure.
+
+---
+
+### 🖼️ **`image_chat`** - AI-Generated Images
+
+Generate and send AI images to channels using Freepik API. Get Freepik API key from here: [Link](https://docs.freepik.com/authentication)
+
+**Format:**
+```json
+"image_chat": {
+  "CHANNEL_ID": "IMAGE_GENERATION_PROMPT"
+}
+```
+
+**Example:**
+```json
+"image_chat": {
+  "1435601397591703675": "Curious browser",
+  "9876543210987654321": "Beautiful sunset over mountains",
+  "1111222233334444555": "Cyberpunk city at night"
+}
+```
+
+**What happens:**
+- In channel `1435601397591703675`: Bot generates image with prompt "Curious browser" and sends it
+- In channel `9876543210987654321`: Bot generates "Beautiful sunset over mountains" image
+- In channel `1111222233334444555`: Bot generates "Cyberpunk city at night" image
+
+**Requirements:**
+- Must have `freepik` API key configured in `configs.json`
+- If Freepik fails, bot automatically falls back to Pollinations.ai (free, no API key needed)
+
+---
+
+## 📋 Complete Example
+
+```json
+[
+  {
+    "name": "Curious Community",
+    "guild_id": "1417067849926705235",
+    "invite_id": "curious",
+    "channels": {
+      "raw_chat": {
+        "1417068171243815002": "__random_message",
+        "1417084328504197250": "gcurious"
+      },
+      "command_chat": {
+        "1417068171243815003": "/daily claim"
+      },
+      "image_chat": {
+        "1435601397591703675": "Curious browser logo"
+      }
+    },
+    "enabled": true
+  },
+  {
+    "name": "Gaming Server",
+    "guild_id": "9876543210987654321",
+    "invite_id": "gaming123",
+    "channels": {
+      "raw_chat": {
+        "1111111111111111111": "gm",
+        "2222222222222222222": "__random_message"
+      },
+      "command_chat": {},
+      "image_chat": {}
+    },
+    "enabled": true
+  },
+  {
+    "name": "Disabled Server (Not Active)",
+    "guild_id": "5555555555555555555",
+    "invite_id": "oldserver",
+    "channels": {
+      "raw_chat": {
+        "3333333333333333333": "test message"
+      },
+      "command_chat": {},
+      "image_chat": {}
+    },
+    "enabled": false
+  }
+]
+```
+
+---
+
+## ⚙️ How Bot Processes Servers
+
+1. **Read `servers.json`** - Loads all server configurations
+2. **Check `enabled`** - Skips servers with `enabled: false`
+3. **Join Server** (if `join_server: true` in configs) - Uses `invite_id`
+4. **Process Channels** (if `auto_chat: true` in configs):
+   - Processes `raw_chat` channels → Sends text messages
+   - Processes `command_chat` channels → Executes commands
+   - Processes `image_chat` channels → Generates and sends images
+5. **Leave Server** (if `leave_server: true` in configs) - Uses `guild_id`
+6. **Repeat** for next server
+
+---
+
+## 💡 Tips & Best Practices
+
+### ✅ DO:
+- Use descriptive names for servers to easily identify them
+- Set `enabled: false` to temporarily disable servers without losing configuration
+- Leave channel categories empty `{}` if not using them
+- Use `"__random_message"` for more natural, varied conversations
+- Test with one server first before adding multiple servers
+
+### ❌ DON'T:
+- Don't delete server entries - use `enabled: false` instead
+- Don't put channel IDs in quotes within objects (they're already strings)
+- Don't forget commas between objects in arrays
+- Don't use invalid JSON syntax (use a JSON validator if unsure)
+
+---
+
+## 🔍 Finding Channel IDs
+
+1. Enable Developer Mode in Discord (Settings → Advanced → Developer Mode)
+2. Right-click on any channel
+3. Click "Copy Channel ID"
+4. Paste the ID into `servers.json`
+
+[Visual Guide](https://t.me/KeoAirDropFreeNee/1676)
+
+---
+
+## 🐛 Troubleshooting
+
+| Problem | Solution |
+|---------|----------|
+| Bot skips server | Check `enabled: true` is set |
+| Bot doesn't join server | Check `invite_id` is correct and `join_server: true` in configs |
+| Bot doesn't send messages | Check channel IDs are correct and `auto_chat: true` in configs |
+| Images not generating | Check Freepik API key in configs.json (or bot will use free Pollinations.ai) |
+| JSON syntax error | Use a JSON validator like jsonlint.com |
 
 </details>
 
@@ -271,15 +484,17 @@ git pull
 
 ### 🔍 How It Works
 
-- Reads configuration from `configs.json`
-- Logs in using provided tokens
-- Applies proxy per account (if available)
-- Executes tasks based on `servers.json`:
-  - Joining servers (using `invite_id`)
-  - Leaving servers (using `guild_id`)
-  - Sending messages/commands/images to channels
-- Logs every event with timestamps
-- Repeats automatically with defined delays
+1. **Reads configuration** from `configs.json`
+2. **Logs in** using provided tokens from `tokens.txt`
+3. **Applies proxy** per account (if available in `proxies.txt`)
+4. **Processes each server** from `servers.json`:
+   - ✅ Checks if server is `enabled: true`
+   - ➕ Joins server (using `invite_id`) if `join_server: true`
+   - 💬 Sends messages/commands/images to channels if `auto_chat: true`
+   - ➖ Leaves server (using `guild_id`) if `leave_server: true`
+5. **Logs every event** with timestamps and colored output
+6. **Waits for delays** between actions (configurable)
+7. **Repeats automatically** after `timeToRestartAllAccounts` seconds
 
 ---
 
@@ -287,14 +502,24 @@ git pull
 
 - Each log entry includes a timestamp
 - Timestamp format follows `chat_language` setting
+- Color-coded logs for easy reading:
+  - 🟢 Green - Success
+  - 🔴 Red - Error
+  - 🟡 Yellow - Warning
+  - 🔵 Blue - Info
+  - 🟣 Purple - Processing
 
 ---
 
-### ⚠️ Notes
+### ⚠️ Important Notes
 
-- Ensure all tokens are valid and have required permissions
-- Use proxies to avoid rate limits or bans
-- Tune delay settings for larger account sets
+- ✅ Ensure all tokens are valid and have required permissions
+- 🌐 Use proxies to avoid rate limits or bans (one proxy per token recommended)
+- ⏱️ Tune delay settings carefully for larger account sets
+- 📊 Monitor logs for errors and adjust `servers.json` accordingly
+- 🔒 Keep your tokens and API keys private and secure
+- 🚫 Don't share your `tokens.txt` file with anyone
+- 💾 Bot automatically saves errors to `error_channels.json` to avoid retrying failed channels
 
 </details>
 
@@ -313,7 +538,7 @@ git pull
 
 ❗ **Do not steal or copy this project.**
 💀 **Use it at your own risk.**
-🚫 **Don’t DM me with silly questions.**
+🚫 **Don't DM me with silly questions.**
 
 ---
 

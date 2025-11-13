@@ -13,7 +13,7 @@
         "1230053716049002566": "Generate for me Sixpence airdrop meme"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "neftit",
@@ -29,7 +29,7 @@
         "1369291012035444806": "Create meme about 'gneft' NFT EVM"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Edgen",
@@ -43,7 +43,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Altius Lab",
@@ -59,7 +59,7 @@
         "1345028182851719188": "Airdrop project with 'Altius Lab'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Bless",
@@ -76,7 +76,7 @@
         "1306590774196179004": "Airdrop project with 'Bless'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Boba",
@@ -90,7 +90,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Brevis",
@@ -104,7 +104,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Brevis",
@@ -118,7 +118,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Bytenova",
@@ -131,7 +131,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Cerebro",
@@ -144,7 +144,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Dats",
@@ -155,7 +155,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Decent DAO",
@@ -166,7 +166,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Doma",
@@ -180,7 +180,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Donut Browser",
@@ -197,7 +197,7 @@
         "1366732078778945577": "Airdrop project with 'Donut Browser'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Ducat",
@@ -211,7 +211,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Fluence Network",
@@ -225,7 +225,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "GAIB",
@@ -241,7 +241,7 @@
         "1293883494036013088": "Airdrop project with 'GAIB'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Gaea",
@@ -258,7 +258,7 @@
         "1303200345224249374": "Airdrop project with 'GAEA'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Gaia",
@@ -273,7 +273,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Gopher",
@@ -292,7 +292,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "IOPn",
@@ -305,7 +305,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Jiritsu",
@@ -320,7 +320,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "KiteAI",
@@ -338,7 +338,7 @@
         "1301948037924388894": "Airdrop project with 'KiteAI'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "KOR Protocol",
@@ -357,7 +357,7 @@
         "1379769481601093702": "Generate for me a KOR airdrop meme"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "KRNL",
@@ -374,7 +374,7 @@
         "1274110031700164628": "airdrop project with 'KRNL'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "MagicBlock",
@@ -388,7 +388,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Magma Finance",
@@ -402,7 +402,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Mawari",
@@ -418,7 +418,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Mento",
@@ -432,7 +432,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Mindo AI",
@@ -447,7 +447,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Monad Score",
@@ -463,7 +463,7 @@
         "1363937829406900435": "Airdrop project with 'Monad Score'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "MonAI",
@@ -478,7 +478,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Octra",
@@ -494,7 +494,7 @@
         "1221114931429249136": "Airdrop project with 'OCTRA labs'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "OpenGradient",
@@ -515,7 +515,7 @@
         "1305476727023075411": " Airdrop project with 'OpenGradient'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Part Of Dreams",
@@ -530,7 +530,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Perspective AI",
@@ -545,7 +545,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Pi Squared",
@@ -561,7 +561,7 @@
         "1375131553344127126": "Airdrop project with 'Pi Squared'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "PinAI",
@@ -576,7 +576,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Primus Labs",
@@ -590,7 +590,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Psychonaut",
@@ -606,7 +606,7 @@
         "1371373907482775586": "Airdrop project with 'Psychonaut'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Rhuna",
@@ -623,7 +623,7 @@
         "1218530010328076379": "airdrop project with 'RHUNA'"
       }
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Seismic",
@@ -636,7 +636,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "StoryChain",
@@ -650,7 +650,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "t1",
@@ -664,7 +664,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Theoriq",
@@ -679,7 +679,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "TradeVALA",
@@ -690,7 +690,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "Valhalla",
@@ -704,7 +704,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "VRAM",
@@ -719,7 +719,7 @@
       "command_chat": {},
       "image_chat": {}
     },
-    "enable": true
+    "enabled": true
   },
   {
     "name": "VS1",
@@ -737,6 +737,6 @@
         "1336077578208935956": "Airdrop project with 'VS1'"
       }
     },
-    "enable": true
+    "enabled": true
   }
 ]
