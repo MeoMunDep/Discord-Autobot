@@ -64,7 +64,7 @@
   {
     "name": "Bless",
     "guild_id": "929539044742938634",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "929539047716687945": "__random_message",
@@ -149,7 +149,7 @@
   {
     "name": "Dats",
     "guild_id": "928611824918736996",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {},
       "command_chat": {},
@@ -160,7 +160,7 @@
   {
     "name": "Decent DAO",
     "guild_id": "839548879216181309",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {},
       "command_chat": {},
@@ -230,7 +230,7 @@
   {
     "name": "GAIB",
     "guild_id": "1273697728014188664",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1273697728542675048": "__random_message",
@@ -278,7 +278,7 @@
   {
     "name": "Gopher",
     "guild_id": "848996376896602163",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "906256283068403732": "__random_message",
@@ -325,7 +325,7 @@
   {
     "name": "KiteAI",
     "guild_id": "1298000367283601428",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1298000367283601428": "__random_message",
@@ -362,7 +362,7 @@
   {
     "name": "KRNL",
     "guild_id": "1208823608668070018",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1208823608668070018": "__random_message",
@@ -379,7 +379,7 @@
   {
     "name": "MagicBlock",
     "guild_id": "943797222162726962",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1094710494880866454": "__random_message",
@@ -437,7 +437,7 @@
   {
     "name": "Mindo AI",
     "guild_id": "1400787114333044887",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1400848157436280943": "__random_message",
@@ -452,7 +452,7 @@
   {
     "name": "Monad Score",
     "guild_id": "1340811383654318201",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1341725898680045599": "__random_message",
@@ -468,7 +468,7 @@
   {
     "name": "MonAI",
     "guild_id": "1341847161003970570",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1341852911784820766": "__random_message",
@@ -499,7 +499,7 @@
   {
     "name": "OpenGradient",
     "guild_id": "1132794141403791483",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1137965713143894137": "__random_message",
@@ -520,7 +520,7 @@
   {
     "name": "Part Of Dreams",
     "guild_id": "1110195999101689927",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1110195999638552730": "__random_message",
@@ -581,7 +581,7 @@
   {
     "name": "Primus Labs",
     "guild_id": "1125704047085760595",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1282630694576717885": "__random_message",
@@ -641,7 +641,7 @@
   {
     "name": "StoryChain",
     "guild_id": "1187372655096102992",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1187372655607816345": "__random_message",
@@ -669,7 +669,7 @@
   {
     "name": "Theoriq",
     "guild_id": "1119245135620878388",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1119245136224854079": "__random_message",
@@ -684,7 +684,7 @@
   {
     "name": "TradeVALA",
     "guild_id": "846726276329111592",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {},
       "command_chat": {},
@@ -695,7 +695,7 @@
   {
     "name": "Valhalla",
     "guild_id": "1318047355169275934",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "1318036319779164191": "__random_message",
@@ -724,7 +724,7 @@
   {
     "name": "VS1",
     "guild_id": "915500218961768479",
-    "invite_id": null,
+    "invite_id": "",
     "channels": {
       "raw_chat": {
         "915500218961768483": "__random_message",
