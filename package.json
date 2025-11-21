@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "axios": "latest",
-    "js-yaml": "latest",
     "meo-forkcy-utils": "latest",
     "meo-forkcy-colors": "latest",
     "meo-forkcy-logger": "latest",
