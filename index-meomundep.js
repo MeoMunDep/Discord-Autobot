@@ -1,1 +1,1 @@
-console.log(`100 stars to unlock update, i'm to tired guys, contribute many but no receive any...`)
+console.log(`100 stars to unlock update, i'm to tired guys, contribute many but not receive any...`)
