@@ -6,9 +6,12 @@
   "timeToRestartAllAccounts": 360,
 
   "auto_chat": true,
+  "submit_x_url": false,
+  "delete_message": false,
+  
+  
   "join_server": false,
   "leave_server": false,
-  "delete_message": false,
 
   "enable_replies": true,
   "ai_reply_chance": 0.7,
@@ -34,3 +37,4 @@
     "user_id": ""
   }
 }
+
