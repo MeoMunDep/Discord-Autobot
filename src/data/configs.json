@@ -1,9 +1,9 @@
 {
   "maxAccountsAtOnce": 1,
-  "delayBetweenAccounts": 17,
-  "delayEachChat": [11, 15],
-  "delayEachChannel": [17, 19],
-  "timeToRestartAllAccounts": 360,
+  "delay_between_accounts": 15,
+  "delay_each_channel": [5, 7],
+  "delay_each_chat": [10, 15],
+  "time_to_restart_all_accounts": 963,
 
   "auto_chat": true,
   "submit_x_url": false,
@@ -30,7 +30,7 @@
     "freepik": [""]
   },
 
-  "voiceChat": {
+  "voice_chat": {
     "enabled": true,
     "server_id": "",
     "channel_id": "",
