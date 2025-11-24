@@ -116,30 +116,41 @@ This bot automates interactions on **Discord**, including sending messages, join
 ```json
 {
   "maxAccountsAtOnce": 1,
-  "delayBetweenAccounts": 17,
-  "delayEachChat": [11, 15],
-  "delayEachChannel": [17, 19],
-  "timeToRestartAllAccounts": 360,
-
-  "chat_language": "en",
+  "delay_between_accounts": 15,
+  "delay_each_channel": [5, 7],
+  "delay_each_chat": [10, 15],
+  "time_to_restart_all_accounts": 963,
 
   "auto_chat": true,
-  "join_server": true,
-  "leave_server": true,
-  "delete_message": true,
-  "enable_replies": true,
-  "reaction_chance": 0.5,
-  "enable_reactions": true,
-  "enable_ai_replies": true,
+  "submit_x_url": false,
+  "delete_message": false,
+  
+  
+  "join_server": false,
+  "leave_server": false,
 
+  "enable_replies": true,
+  "ai_reply_chance": 0.7,
+
+  "enable_reactions": true,
+  "reaction_chance": 0.7,
+  
   "ai_providers": {
     "poe": [""],
     "groq": [""],
     "gemini": [""],
     "openrouter": [""]
   },
+
   "image_generation_providers": {
     "freepik": [""]
+  },
+
+  "voice_chat": {
+    "enabled": true,
+    "server_id": "",
+    "channel_id": "",
+    "user_id": ""
   }
 }
 ```
