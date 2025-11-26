@@ -9,7 +9,6 @@
   "submit_x_url": false,
   "delete_message": false,
   
-  
   "join_server": false,
   "leave_server": false,
 
@@ -37,5 +36,3 @@
     "user_id": ""
   }
 }
-
-
