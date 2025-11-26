@@ -5,6 +5,7 @@
   "delay_each_chat": [10, 15],
   "time_to_restart_all_accounts": 963,
 
+  "ask_before_auto_chat": false, 
   "auto_chat": true,
   "submit_x_url": false,
   "delete_message": false,
@@ -36,3 +37,4 @@
     "user_id": ""
   }
 }
+
