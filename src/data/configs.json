@@ -23,7 +23,8 @@
     "poe": [""],
     "groq": [""],
     "gemini": [""],
-    "openrouter": [""]
+    "deepseek": [""],
+    "openrouter": [""],
   },
 
   "image_generation_providers": {
@@ -37,4 +38,5 @@
     "user_id": ""
   }
 }
+
 
