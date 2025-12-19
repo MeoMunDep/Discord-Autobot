@@ -24,7 +24,7 @@
     "groq": [""],
     "gemini": [""],
     "deepseek": [""],
-    "openrouter": [""],
+    "openrouter": [""]
   },
 
   "image_generation_providers": {
